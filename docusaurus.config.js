@@ -56,7 +56,7 @@ const config = {
   url: customFields.domain,
   baseUrlIssueBanner: false,
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   favicon: 'img/kd.png',
   organizationName: 'AgileTs',
   projectName: 'agilets',
