@@ -4,8 +4,8 @@
   <ShortName>Kd Singh</ShortName>
   <Description>Search Kd Singh</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://kdsinghcoder.github.io/kdsinghcoder.github.io/img/kd.png</Image>
-  <Url type="text/html" method="get" template="https://kdsinghcoder.github.io/kdsinghcoder.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://kdsinghcoder.github.io/kdsinghcoder.github.io/opensearch.xml" />
-  <moz:SearchForm>https://kdsinghcoder.github.io/kdsinghcoder.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://kdsinghcoder.github.io/img/kd.png</Image>
+  <Url type="text/html" method="get" template="https://kdsinghcoder.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://kdsinghcoder.github.io/opensearch.xml" />
+  <moz:SearchForm>https://kdsinghcoder.github.io/</moz:SearchForm>
 </OpenSearchDescription>
