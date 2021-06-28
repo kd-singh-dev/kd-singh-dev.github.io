@@ -50,16 +50,17 @@ const customFields = {
   },
 };
 
+
 const config = {
   title: 'Kd Singh',
   tagline: 'A Bug is not a four letter word… but often your reaction to it is! 😂',
-  url: customFields.domain,
+  url: "https://kdsinghcoder.github.io",
   baseUrlIssueBanner: false,
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   favicon: 'img/kd.png',
-  organizationName: 'AgileTs',
-  projectName: 'agilets',
+  organizationName: 'kdsinghcoder',
+  projectName: 'kdsinghcoder.github.io',
   themes: ['@docusaurus/theme-live-codeblock'],
   scripts: [{ src: 'https://snack.expo.io/embed.js', async: true }], // https://github.com/expo/snack/blob/main/docs/embedding-snacks.md
   plugins: [
