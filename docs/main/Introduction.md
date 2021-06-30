@@ -109,7 +109,9 @@ const skills = {
     currentFocus: "Problem solving skills and Competitive programming",
 };
 ```
-
+<!-- 
 ## Projects 📁
 
-## WorkExperience 👷‍♂️
+Right from the first year of my college I started developing projects. -->
+
+<!-- ## WorkExperience 👷‍♂️ -->

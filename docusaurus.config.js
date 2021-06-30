@@ -153,7 +153,7 @@ const config = {
         {
           label: 'Resume',
           position: 'right',
-          to: 'docs/instabot',
+          to: '/docs/Karandeep_Singh_Resume.pdf',
         },
       ],
     },
@@ -167,7 +167,11 @@ const config = {
             {
               label: 'Introduction',
               to: 'docs/introduction',
-            }
+            },
+              {
+                label: 'Resume',
+                to: '/docs/Karandeep_Singh_Resume.pdf',
+              }
           ],
         },
         {
