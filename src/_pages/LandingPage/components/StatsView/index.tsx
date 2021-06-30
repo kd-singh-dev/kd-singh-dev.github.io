@@ -30,21 +30,21 @@ const StatsView: React.FC = () => {
             icon={'star'}
             number={969}
             text={'Total Commits'}
-            to={`${siteConfig.customFields.githubUrl}/stargazers`}
+            to={`${siteConfig.customFields.githubUrl}`}
             className={styles.Badge}
           />
           <StatBadge
             icon={'star'}
             number={56}
             text={'Pull Requests in last 365 days'}
-            to={`${siteConfig.customFields.githubUrl}/network/members`}
+            to={`${siteConfig.customFields.githubUrl}`}
             className={styles.Badge}
           />
           <StatBadge
             icon={'star'}
             number={16}
             text={'Contributed to repo'}
-            to={siteConfig.customFields.npmCoreUrl}
+            to={`${siteConfig.customFields.githubUrl}`}
             className={styles.Badge}
           />
         </div>
