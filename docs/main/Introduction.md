@@ -75,11 +75,23 @@ const karan = {
   }
   ```
 
-### 🧬 My life in VIT 
+## 🧬 My life in VIT 
 
+**VIT A place to learn a chance to grow** . Our college VIT truly stands for its tagline, VIT provides ample opportunity for us on campus to learn and grow.
+
+I still remember coming to Vellore with my father, a soon as we got into VIT we were astonished by the shared size and infrastructure of it, coming from a small town Rourkela this was new to me. I went into VIT with lots of ambitions and confidence, thank god both are in place even after 2 years of engineering 😂.
+
+I have spent most of my time making friends, participating in events, and conducting a few myself with HEARTS[ an on-campus NGO]. My biggest achievement on campus is to make healthy connections with friends, I find myself in a positive growth-seeking circle. 
+![image](https://i.imgur.com/hFtBXhs.png)
+
+**Did what every VITIAN does !! a trip to pondicherry 😄**
+
+![image](https://i.imgur.com/meZawBa.png)
+
+By the end of my first year, I was good to go in python, c, c++, was also learning web development side by side with my semester circular. Started developing projects and learning DSA to improve my coding skills. Took part in 3 hackathons won in one of them. I have been an active opensource contributed to many projects, I found it really difficult while starting up but slowly I got comfortable working with GitHub and opensource. In this lockdown, I have secured 5th spot out of 250+ participants in [Mexili](https://mexili.org/) Winter of code while contributing to an open-source project [UniAuth](https://uniauth.co/). In my third year, I am looking for some good internships where I can learn some new technology and gain valuable real-time industrial skills.
   
 
-## Skills 🤹‍♀️
+## 🤹‍♀️ Skills 
 
   All skills are perfected through the process of failure. Embrace loss as a necessary part of improvement.
 

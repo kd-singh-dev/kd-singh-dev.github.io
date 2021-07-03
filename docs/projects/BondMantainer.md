@@ -81,5 +81,5 @@ Running the project on local system is **strongly recommended**, even if you are
 ![image](https://user-images.githubusercontent.com/50829119/123985996-8d846600-d9e3-11eb-9e87-4ab6dd723360.png)
 
 ## Landing Page View
-![image](https://user-images.githubusercontent.com/50829119/124012844-38eee400-d9ff-11eb-8d91-0c238885edb2.png)
+![image](https://i.imgur.com/omk88gA.png)
 

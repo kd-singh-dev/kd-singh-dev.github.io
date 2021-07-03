@@ -148,13 +148,17 @@ const config = {
               label: "Git Stats",
               href: customFields.GitStats,
             },
+            {
+              label: "geeksforgeeks",
+              href: "https://auth.geeksforgeeks.org/user/kdsinghcoder/profile",
+            },
           ],
         },
         {
           label: 'Resume',
           position: 'right',
-          to: '/docs/Karandeep_Singh_Resume.pdf',
-        },
+          href:'https://kdsinghcoder.github.io/KarandeepSingh_2021.pdf',
+        }  
       ],
     },
     footer: {
@@ -170,7 +174,7 @@ const config = {
             },
               {
                 label: 'Resume',
-                to: '/docs/Karandeep_Singh_Resume.pdf',
+                href: 'https://kdsinghcoder.github.io/KarandeepSingh_2021.pdf',
               }
           ],
         },
@@ -221,6 +225,10 @@ const config = {
             {
               label: "Git Stats",
               href: customFields.GitStats,
+            },
+            {
+              label: "geeksforgeeks",
+              href: "https://auth.geeksforgeeks.org/user/kdsinghcoder/profile",
             },
           ],
         },

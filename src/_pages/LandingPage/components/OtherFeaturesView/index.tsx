@@ -18,19 +18,19 @@ const cards: CardInterface[] = [
   //   imagePath: 'img/pages/landing/teaching.svg',
   // },
   {
+    title: 'Say Hello',
+    description:
+    'Say Hello is essentially a speech to sign language converter which takes a speech input from the user and converts it to a text form with the help of a JavaScript API followed by which, this text is used as an input to finally convert this speech into sign language.',
+    to: 'docs/sayhello',
+    imagePath: 'https://i.imgur.com/T0dnIKh.png',
+  },  
+  {
     title: 'Docs Stream',
     description:
       'Easies and the fastest way to collaborate while making a document. Provides a solution to hosting your document online..',
     to: 'docs/docstream',
     imagePath: 'https://i.imgur.com/wS0HdLS.png',
   },
-  {
-    title: 'Say Hello',
-    description:
-      'Say Hello is essentially a speech to sign language converter which takes a speech input from the user and converts it to a text form with the help of a JavaScript API followed by which, this text is used as an input to finally convert this speech into sign language.',
-    to: 'docs/sayhello',
-    imagePath: 'https://i.imgur.com/T0dnIKh.png',
-  },  
   {
     title: 'Bond Mantainer',
     description:
