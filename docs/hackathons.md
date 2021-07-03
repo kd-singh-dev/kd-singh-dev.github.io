@@ -14,9 +14,11 @@ Our project is a fullscale web application that is responsible for letting a hos
 
 This hackathon was a huge confidence booster for me and my team. We got a price of 5000Rs each with MLH merchendice, in our very first hackathons.
 
-![image](https://i.imgur.com/gCucwpt.png)
+![image](../static/img/hackoff.png)
 
-![image](https://i.imgur.com/tBoa7NW.png)
+**Page view**
+
+![image](../static/img/donate.png)
 
 ## EtherPunk 2021
 

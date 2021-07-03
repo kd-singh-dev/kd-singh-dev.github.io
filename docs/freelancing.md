@@ -8,7 +8,7 @@ I got an opportunity to build their website integrate it with a google excel she
 
 > **The result [spectrumlifesciences.in](http://spectrumlifesciences.in/)**
 
-![image](https://i.imgur.com/W1r9idW.png)
+![image](../static/img/spectrum.png)
 
 ## The Creativerse
 
@@ -17,5 +17,5 @@ This is a freelance profile for my old school friend.
 
 > **The result [thecreativerse.co.in](https://thecreativerse.co.in/)**
 
-![image](https://i.imgur.com/pTz8hUD.png)
+![image](../static/img/thecreativerse.png)
 

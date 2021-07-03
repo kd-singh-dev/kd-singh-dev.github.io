@@ -34,7 +34,7 @@ Travel Buddy helps my fellow VITIAN’s to find their colleagues travelling in t
 ```
 
 ## Page View
-![image](https://i.imgur.com/mQiuj6N.png)
+![image](../../static/img/travelbuddy.png)
 
 ## Architecture
 

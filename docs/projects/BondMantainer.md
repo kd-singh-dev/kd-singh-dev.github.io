@@ -40,7 +40,7 @@ contact.
 - Any common man can also use this app to maintain healthy relationships with their friends,relatives, or any other person.
 
 ### SMS 🧾
-![image](https://user-images.githubusercontent.com/50829119/123985446-1b138600-d9e3-11eb-9903-14c8e7c28719.png)
+![image](../../static/img/bondintroImage.png)
 
 
 ## Dependency
@@ -81,5 +81,5 @@ Running the project on local system is **strongly recommended**, even if you are
 ![image](https://user-images.githubusercontent.com/50829119/123985996-8d846600-d9e3-11eb-9e87-4ab6dd723360.png)
 
 ## Landing Page View
-![image](https://i.imgur.com/omk88gA.png)
+![image](../../static/img/bond.png)
 

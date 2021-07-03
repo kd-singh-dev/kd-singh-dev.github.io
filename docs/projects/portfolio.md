@@ -22,8 +22,8 @@ This portfolio site is build using React and docusaurus. Docusaurus helps you to
 
 ### Landing page view
 
-![image](https://i.imgur.com/TFWegIC.png)
+![image](../../static/img/portfolio.png)
 
 ### Other links and projects
-![image](https://i.imgur.com/ZV38SRo.png)
+![image](../../static/img/aboutfinalcompress.png)
 
