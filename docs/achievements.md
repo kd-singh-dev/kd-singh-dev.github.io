@@ -11,11 +11,13 @@ slug: /achievements
 
 ![image](https://i.imgur.com/gCucwpt.png)
 
-### Education Outreach Scholarship winner by GirlScript
+### Education Outreach Scholarship winner by [GirlScript](https://www.girlscript.tech/)
 
 | ![image](https://i.imgur.com/KfObYPl.png) | ![image](https://i.imgur.com/UpQ94Op.png) |
 | ----------------------------------------- | ----------------------------------------- |
  
- ### SECURED FIFTH SPOT IN MEXILI WINTER OF CODE
+ ### SECURED FIFTH SPOT IN **[MEXILI](https://mexili.org/) WINTER OF CODE**
+
+Secured 5th rank while contributing to **[UniAuth](https://github.com/UniAuth)** a next generation authentication system which allows users to integrate authentication with minimal code. 
 
 ![image](https://i.imgur.com/aDsWVTk.jpg?1)
