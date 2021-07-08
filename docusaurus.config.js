@@ -133,6 +133,10 @@ const config = {
           position: 'left',
           items: [
             {
+              label: 'LinkedIn',
+              href: "https://www.linkedin.com/in/karandeep-singh-018155157/",
+            },
+            {
               label: 'GitHub',
               href: customFields.githubUrl,
             },
