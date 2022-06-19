@@ -11,42 +11,28 @@ module.exports = {
       label: 'Projects',
       collapsed: false,
       items: [
-        'projects/intro',{
-        type: 'category',
-        label: 'Full Stack',
-        items: [
-          'projects/docstream', 
-          'projects/sayhello', 
-          'projects/BondMantainer',
-          'projects/travelbuddy',
-          'projects/portfolio',
-
-        ],
-      },
-      {
-        type: 'category',
-        label: 'Bots',
-        items: [
-          'projects/instabot', 
-        ],
-      },
-      {
-        type: 'category',
-        label: 'Hackathons',
-        items: [
-          'hackathons', 
-        ],
-      },
-      {
-        type: 'category',
-        label: 'Freelancing',
-        items: [
-          'freelancing', 
-        ],
-      },
+        'projects/intro',
+        {
+          type: 'category',
+          label: 'Full Stack',
+          items: [
+            'projects/docstream',
+            'projects/sayhello',
+            'projects/BondMantainer',
+            'projects/travelbuddy',
+            'projects/portfolio',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Automations',
+          items: ['projects/gitcli', 'projects/youtubeapi' ,'projects/instabot'],
+        },
+        
+        'hackathons',
+        'freelancing',
       ],
     },
     'achievements',
-
   ],
 };

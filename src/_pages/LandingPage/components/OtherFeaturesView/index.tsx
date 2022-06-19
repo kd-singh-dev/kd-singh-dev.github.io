@@ -10,13 +10,7 @@ const cards: CardInterface[] = [
     to: 'docs/travelbuddy',
     imagePath: 'https://i.imgur.com/IDKPlCF.png',
   },
-  // {
-  //   title: 'Flexible',
-  //   description:
-  //     'AgileTs works with nearly any UI-Layer and isn’t bound to any specific workflow. Use it the way it suits you best.',
-  //   to: 'docs/introduction',
-  //   imagePath: 'img/pages/landing/teaching.svg',
-  // },
+
   {
     title: 'Say Hello',
     description:
@@ -32,12 +26,26 @@ const cards: CardInterface[] = [
     imagePath: 'https://i.imgur.com/wS0HdLS.png',
   },
   {
+    title: 'Github CLI',
+    description:
+      'git-Cli is a command line automation tool developed to keep the packages of multiple repositories of an organization up to date.',
+    to: 'docs/gitcli',
+    imagePath: 'https://i.imgur.com/oGmlHTJ.png',
+  },
+  {
     title: 'Bond Mantainer',
     description:
       'Bond Mantainer is a full stack application integrated with Twilo Api to send reminder messages to the user. Bond Mantainer allows user to make healthy and effictive connections.',
     to: 'docs/bondmantainer',
     imagePath: 'https://i.imgur.com/nggxuDD.png',
   },
+  // {
+  //   title: 'YouTube API',
+  //   description:
+  //     'To make an API to fetch latest videos sorted in reverse chronological order of their publishing date-time from YouTube for a given tag/search query in a paginated response.',
+  //   to: 'docs/youtubeapi',
+  //   imagePath: 'https://cdn-icons-png.flaticon.com/512/152/152810.png',
+  // },
 ];
 
 const OtherFeaturesView: React.FC = () => {

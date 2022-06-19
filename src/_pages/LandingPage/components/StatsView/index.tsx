@@ -28,23 +28,23 @@ const StatsView: React.FC = () => {
         <div className={styles.BadgesContainer}>
           <StatBadge
             icon={'star'}
-            number={969}
-            text={'Total Commits'}
+            number={1255}
+            text={'Total Contributions'}
             to={`${siteConfig.customFields.githubUrl}`}
             className={styles.Badge}
           />
           <StatBadge
             icon={'star'}
-            number={56}
+            number={75}
             text={'Pull Requests in last 365 days'}
             to={`${siteConfig.customFields.githubUrl}`}
             className={styles.Badge}
           />
           <StatBadge
             icon={'star'}
-            number={16}
-            text={'Contributed to repo'}
-            to={`${siteConfig.customFields.githubUrl}`}
+            number={350}
+            text={'Problems solved'}
+            to={`https://auth.geeksforgeeks.org/user/kdsinghcoder/profile`}
             className={styles.Badge}
           />
         </div>

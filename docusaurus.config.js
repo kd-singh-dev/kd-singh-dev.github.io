@@ -111,6 +111,10 @@ const config = {
               to: '/docs/docstream',
             },
             {
+              label: 'GIT CLI 💻',
+              to: '/docs/gitcli',
+            },
+            {
               label: 'Say Hello 👋',
               to: '/docs/sayhello',
             },
@@ -126,10 +130,14 @@ const config = {
               label: 'Insta Bot 🤖',
               to: '/docs/instabot',
             },
+            {
+              label: 'YouTube API',
+              to: '/docs/youtubeapi',
+            },
           ],
         },
         {
-          label: 'Connect',
+          label: 'Profiles',
           position: 'left',
           items: [
             {
@@ -155,6 +163,10 @@ const config = {
             {
               label: "geeksforgeeks",
               href: "https://auth.geeksforgeeks.org/user/kdsinghcoder/profile",
+            },
+            {
+              label: "CodeChef",
+              href: "https://www.codechef.com/users/karandsingh",
             },
           ],
         },
@@ -209,10 +221,14 @@ const config = {
               label: 'Insta Bot 🤖',
               to: '/docs/instabot',
             },
+            {
+              label: 'YouTube API',
+              to: '/docs/youtubeapi',
+            },
           ],
         },
         {
-          title: 'Connect',
+          title: 'Profiles',
           items: [
             {
               label: 'GitHub',
@@ -233,6 +249,10 @@ const config = {
             {
               label: "geeksforgeeks",
               href: "https://auth.geeksforgeeks.org/user/kdsinghcoder/profile",
+            },
+            {
+              label: "CodeChef",
+              href: "https://www.codechef.com/users/karandsingh",
             },
           ],
         },

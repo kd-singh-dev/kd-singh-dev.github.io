@@ -8,7 +8,7 @@
  */
 import React, { useCallback, useState, useEffect } from 'react';
 import clsx from 'clsx';
-import SearchBar from '@theme/SearchBar';
+// import SearchBar from '@theme/SearchBar';
 import Toggle from '@theme/Toggle';
 import useThemeContext from '@theme/hooks/useThemeContext';
 import useLockBodyScroll from '@theme/hooks/useLockBodyScroll';
@@ -29,7 +29,7 @@ const Navbar: React.FC = () => {
   const { siteConfig } = useDocusaurusContext();
   const { items } = siteConfig.themeConfig.navbar;
   const [sidebarShown, setSidebarShown] = useState(false);
-  const [isSearchBarExpanded, setIsSearchBarExpanded] = useState(false);
+  // const [isSearchBarExpanded, setIsSearchBarExpanded] = useState(false);
   const windowSize = useWindowSize();
   const { leftItems, rightItems } = splitNavItemsByPosition(items);
   const { isDarkTheme, setLightTheme, setDarkTheme } = useThemeContext();
@@ -96,10 +96,10 @@ const Navbar: React.FC = () => {
             checked={isDarkTheme}
             onChange={onToggleChange}
           />
-          <SearchBar
+          {/* <SearchBar
             handleSearchBarToggle={setIsSearchBarExpanded}
             isSearchBarExpanded={isSearchBarExpanded}
-          />
+          /> */}
         </div>
         <BrowserOnly>{() => <Progressbar />}</BrowserOnly>
       </div>
