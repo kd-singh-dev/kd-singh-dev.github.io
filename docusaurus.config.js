@@ -173,7 +173,7 @@ const config = {
         {
           label: 'Resume',
           position: 'right',
-          href:'https://kdsinghcoder.github.io/KarandeepSingh_2021.pdf',
+          href:'https://kdsinghcoder.github.io/KarandeepSingh_2022.pdf',
         }  
       ],
     },
@@ -190,7 +190,7 @@ const config = {
             },
               {
                 label: 'Resume',
-                href: 'https://kdsinghcoder.github.io/KarandeepSingh_2021.pdf',
+                href: 'https://kdsinghcoder.github.io/KarandeepSingh_2022.pdf',
               }
           ],
         },
