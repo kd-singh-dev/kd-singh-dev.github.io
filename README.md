@@ -19,3 +19,8 @@ This portfolio site is build using React and docusaurus. Docusaurus helps you to
 ### Other links and projects
 ![image](https://user-images.githubusercontent.com/50829119/124011333-84a08e00-d9fd-11eb-97e4-803b46d71e95.png)
 
+### To deploy 
+Enter the below given cmd in GitBash 
+```npm
+GIT_USER=kdsinghcoder yarn deploy
+```
