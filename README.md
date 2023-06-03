@@ -22,5 +22,5 @@ This portfolio site is build using React and docusaurus. Docusaurus helps you to
 ### To deploy 
 Enter the below given cmd in GitBash 
 ```npm
-GIT_USER=kdsinghcoder yarn deploy
+cmd /C "set GIT_USER=<GITHUB_USERNAME>&& yarn deploy"
 ```
