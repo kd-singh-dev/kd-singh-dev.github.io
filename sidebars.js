@@ -16,6 +16,7 @@ module.exports = {
           type: 'category',
           label: 'Full Stack',
           items: [
+            'projects/getbus',
             'projects/docstream',
             'projects/sayhello',
             'projects/BondMantainer',

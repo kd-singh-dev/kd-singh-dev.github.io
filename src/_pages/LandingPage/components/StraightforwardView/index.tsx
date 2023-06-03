@@ -14,29 +14,28 @@ class Karandeep {
 // My of skills set is continuously expanding.
   constructor() {
   this.name = 'Karandeep Singh'
-  this.dayOfBirthTimestamp = 602745592
-  this.email = 'kdsinzgh.contact@gmail.com'
+  this.dayOfBirthTimestamp = 943529400
+  this.email = 'kdsingh.contact@gmail.com'
   }
   education() {
     return [
     { 'VIT Vellore': {'Computer Science and Engineering',
-    CGPA:8.6} },
+    CGPA:8.76} },
     { 'ISC':  'Percentage: 85.6' },
     { 'ICSE': 'Percentage: 87' },
     ]
   }
     `,
-    codeWithComment:  
-`class Karandeep {
+    codeWithComment: `class Karandeep {
 // I'm ambitious and love new challenges 🙂
 // My of skills set is continuously expanding.
 constructor() {
   this.name = 'Karandeep Singh'
-  this.dayOfBirthTimestamp = 602745592
+  this.dayOfBirthTimestamp = 943529400
   this.email = 'kdsinzgh.contact@gmail.com'
   }
   education() {return [{ 'VIT Vellore': {'Computer Science and Engineering',
-    CGPA:8.6} },
+    CGPA:8.76} },
     { 'ISC':  'Percentage: 85.6' },
     { 'ICSE': 'Percentage: 87' },
     ]}`,
@@ -61,8 +60,7 @@ MySkillset(){
     skills_to_acquire:["Firebase", "Socket.IO", "VIEW.JS", "Typescript", "Next.js"],
     currentFocus: "Problem solving skills and Competitive programming",
   };]}`,
-    codeWithComment: 
-`MySkillset(){
+    codeWithComment: `MySkillset(){
  return [{code: ["Javascript", "C", "C"++, "Python", "Java", "php"],
         technologies: {backEnd: {code: ["node", "express", "php"],},
               frontEnd: {js: ["Vue(#skills to acquire)"],
@@ -79,8 +77,7 @@ MySkillset(){
     icon: 'repeat',
   },
   {
-    code: 
-`Computer Science Student
+    code: `Computer Science Student
 ## Exploring Technology 🚀
 
 //Birthday: 25th Nov, 1999              Phone: +91-7008788033
@@ -100,42 +97,41 @@ Age: 21                                 Freelance: Available`,
     description: 'Contact details.',
     icon: 'server',
   },
-//   {
-//     code: `
-// const App = new Agile();
-// const MY_COLLECTION = App.createCollection(); // <-
-// MY_COLLECTION.collect({id: 1, name: "Jeff"});
-//     `,
-//     codeWithComment: `
-// // Create dynamic set of States
-// const App = new Agile();
-// const MY_COLLECTION = App.createCollection(); // <-
-// MY_COLLECTION.collect({id: 1, name: "Jeff"});
-//     `,
-//     title: 'Collection',
-//     description: 'A Collection is a dynamic and reactive set of States.',
-//     icon: 'users',
-//   },
- 
+  //   {
+  //     code: `
+  // const App = new Agile();
+  // const MY_COLLECTION = App.createCollection(); // <-
+  // MY_COLLECTION.collect({id: 1, name: "Jeff"});
+  //     `,
+  //     codeWithComment: `
+  // // Create dynamic set of States
+  // const App = new Agile();
+  // const MY_COLLECTION = App.createCollection(); // <-
+  // MY_COLLECTION.collect({id: 1, name: "Jeff"});
+  //     `,
+  //     title: 'Collection',
+  //     description: 'A Collection is a dynamic and reactive set of States.',
+  //     icon: 'users',
+  //   },
 
-// {
-//     code: `
-// const App = new Agile();
-// const IS_AUTH = App.createComputed(() => {
-//    return AUTH_TOKEN.exists && EXPIRATION_TIME.value > 0;
-// });
-//     `,
-//     codeWithComment: `
-// // Compute State depending on other States  
-// const App = new Agile();
-// const IS_AUTH = App.createComputed(() => {
-//    return AUTH_TOKEN.exists && EXPIRATION_TIME.value > 0;
-// });
-//     `,
-//     title: 'Computed State',
-//     description: 'Compute State depending on other States.',
-//     icon: 'edit',
-//   },
+  // {
+  //     code: `
+  // const App = new Agile();
+  // const IS_AUTH = App.createComputed(() => {
+  //    return AUTH_TOKEN.exists && EXPIRATION_TIME.value > 0;
+  // });
+  //     `,
+  //     codeWithComment: `
+  // // Compute State depending on other States
+  // const App = new Agile();
+  // const IS_AUTH = App.createComputed(() => {
+  //    return AUTH_TOKEN.exists && EXPIRATION_TIME.value > 0;
+  // });
+  //     `,
+  //     title: 'Computed State',
+  //     description: 'Compute State depending on other States.',
+  //     icon: 'edit',
+  //   },
 ];
 
 const StraightforwardView: React.FC = () => {
@@ -150,7 +146,7 @@ const StraightforwardView: React.FC = () => {
           <div className={styles.Description}>
             I'm a student pursuing a B.Tech in Computer Science from VIT,
             Vellore. I intend to develop excellent development skills to
-            contribute to the tech world in the best of my ability. 
+            contribute to the tech world in the best of my ability.
           </div>
         </div>
         <Spacer height={60} />

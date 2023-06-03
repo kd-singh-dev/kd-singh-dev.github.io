@@ -8,12 +8,12 @@ const domain = 'https://kdsinghcoder.github.io';
 const npmOrgUrl = 'https://www.npmjs.com/package/@agile-ts';
 
 const customFields = {
-  copyright: `Created with 💜 in India     |    Copyright © ${new Date().getFullYear()} <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/karandchandi">Karandeep Singh</a>`,
+  copyright: `Created with 💜 in India     |    Copyright © ${new Date().getFullYear()} <a target="_blank" href="https://twitter.com/karandchandi">Karandeep Singh</a>`,
   meta: {
     title: "Let's code",
     image: '/img/kd.png',
     description:
-      'AgileTs is a global open source State and Logic Framework, which makes State Management fast, easy and overall fun.',
+      'Hi I am karandeep Singh a young passionate developer.',
     color: '#6c69a0',
   },
   domain,
@@ -30,9 +30,9 @@ const customFields = {
   announcementBar: {
     id: 'announcement',
     content: [
-      `❓ If you have any questions, don't hesitate simply connect to me on <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/karandeepsingh_chandi/">Insta</a> ️`,
-      `🎉 !️If you like my work, follow me on <a target="_blank" rel="noopener noreferrer" href="https://github.com/kdsinghcoder">GitHub</a>`,
-      `⏰ My project Docstream is open for contributions, check this out  <a target="_blank" rel="noopener noreferrer" href="https://github.com/kdsinghcoder/docstream">Docstream</a>`,
+      `❓ If you have any questions, don't hesitate simply email me <a href="mailto:kdsingh.contact@gmail.com">Click here</a> ️`,
+      `🎉 !️If you like my work, connect with me on <a href="https://www.linkedin.com/in/karandeep-singh-018155157/">Linkedin</a>`,
+      `⏰ I love working on Projects, check them out  <a href="http://kdsingh.me/docs/intro">Here</a>`,
     ],
     random: false,
     interval: 100000,
@@ -53,7 +53,7 @@ const customFields = {
 
 const config = {
   title: 'Kd Singh',
-  tagline: 'A Bug is not a four letter word… but often your reaction to it is! 😂',
+  tagline: 'A Bug is not a four letter word… but often your reaction to it is! 😅',
   url: "https://kdsinghcoder.github.io",
   baseUrlIssueBanner: false,
   baseUrl: '/',
@@ -105,6 +105,10 @@ const config = {
             {
               label: 'all',
               to: '/docs/intro',
+            },
+            {
+              label: 'Get Bus',
+              to: '/docs/getbus',
             },
             {
               label: 'DocStream ❤',
@@ -173,7 +177,7 @@ const config = {
         {
           label: 'Resume',
           position: 'right',
-          href:'https://kdsinghcoder.github.io/KarandeepSingh_2022.pdf',
+          href:'https://kdsinghcoder.github.io/KarandeepSingh.pdf',
         }  
       ],
     },
@@ -190,7 +194,7 @@ const config = {
             },
               {
                 label: 'Resume',
-                href: 'https://kdsinghcoder.github.io/KarandeepSingh_2022.pdf',
+                href: 'https://kdsinghcoder.github.io/KarandeepSingh.pdf',
               }
           ],
         },

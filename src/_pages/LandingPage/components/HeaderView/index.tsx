@@ -16,10 +16,11 @@ const HeaderView: React.FC = () => {
   const [toTypeWords] = useState(
     shuffle([
       'Coding is my passion 😍',
-      'open source is ❤',
+      'open source ❤',
       'Full-Stack webDev 🙌',
-      'Software Developer Profile 🤑',
+      'Software Developer 💻',
       "Where there's chai there's hope.🤞",
+      "Worked at HyperVerge.🤞",
     ])
   );
 
