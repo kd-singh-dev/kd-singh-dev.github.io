@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/collection/introduction",
+  "id": "packages/core/features/collection/introduction",
+  "isDocsHomePage": false,
+  "title": "Collection",
+  "description": "A Collection provides a reactive set of Information that we need to remember globally at a later point in time.",
+  "source": "@site/docs/packages/core/features/collection/Introduction.md",
+  "sourceDirName": "packages/core/features/collection",
+  "slug": "/core/collection",
+  "permalink": "/docs/core/collection",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Collection",
+    "sidebar_label": "Introduction",
+    "slug": "/core/collection"
+  }
+}

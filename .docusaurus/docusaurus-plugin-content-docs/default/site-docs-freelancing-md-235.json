@@ -1,0 +1,25 @@
+{
+  "unversionedId": "freelancing",
+  "id": "freelancing",
+  "isDocsHomePage": false,
+  "title": "Freelancing",
+  "description": "spectrum",
+  "source": "@site/docs/freelancing.md",
+  "sourceDirName": ".",
+  "slug": "/freelancing",
+  "permalink": "/docs/freelancing",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/freelancing.md",
+  "version": "current",
+  "lastUpdatedAt": 1625335369,
+  "formattedLastUpdatedAt": "7/3/2021",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Hackathons",
+    "permalink": "/docs/hackathons"
+  },
+  "next": {
+    "title": "Achievements",
+    "permalink": "/docs/achievements"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/collection/group/introduction",
+  "id": "packages/core/features/collection/group/introduction",
+  "isDocsHomePage": false,
+  "title": "Group",
+  "description": "A Group categorizes and preserves the ordering of structured data.",
+  "source": "@site/docs/packages/core/features/collection/group/Introduction.md",
+  "sourceDirName": "packages/core/features/collection/group",
+  "slug": "/core/collection/group",
+  "permalink": "/docs/core/collection/group",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/group/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Group",
+    "sidebar_label": "Introduction",
+    "slug": "/core/collection/group"
+  }
+}

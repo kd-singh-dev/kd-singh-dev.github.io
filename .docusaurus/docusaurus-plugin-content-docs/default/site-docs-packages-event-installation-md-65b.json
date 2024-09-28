@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/event/installation",
+  "id": "packages/event/installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "The event package can be installed over npm.",
+  "source": "@site/docs/packages/event/Installation.md",
+  "sourceDirName": "packages/event",
+  "slug": "/event/installation",
+  "permalink": "/docs/event/installation",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/event/Installation.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Installation",
+  "frontMatter": {
+    "id": "installation",
+    "title": "Installation",
+    "sidebar_label": "Installation",
+    "slug": "/event/installation"
+  }
+}

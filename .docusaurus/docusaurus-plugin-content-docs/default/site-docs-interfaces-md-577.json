@@ -1,0 +1,22 @@
+{
+  "unversionedId": "interfaces",
+  "id": "interfaces",
+  "isDocsHomePage": false,
+  "title": "Interfaces",
+  "description": "This Section might be useless to you without any context.",
+  "source": "@site/docs/Interfaces.md",
+  "sourceDirName": ".",
+  "slug": "/interfaces",
+  "permalink": "/docs/interfaces",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/Interfaces.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Interfaces",
+  "frontMatter": {
+    "id": "interfaces",
+    "title": "Interfaces",
+    "sidebar_label": "Interfaces",
+    "slug": "/interfaces"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react/examples/simple-todo-list",
+  "id": "examples/react/examples/simple-todo-list",
+  "isDocsHomePage": false,
+  "title": "Simple Todo List",
+  "description": "",
+  "source": "@site/docs/examples/react/examples/SimpleTodoList.mdx",
+  "sourceDirName": "examples/react/examples",
+  "slug": "/examples/react/simple-todo-list",
+  "permalink": "/docs/examples/react/simple-todo-list",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/SimpleTodoList.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Simple Todo List",
+  "frontMatter": {
+    "id": "simple-todo-list",
+    "title": "Simple Todo List",
+    "sidebar_label": "Simple Todo List",
+    "slug": "/examples/react/simple-todo-list"
+  }
+}

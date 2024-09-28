@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/computed/properties",
+  "id": "packages/core/features/computed/properties",
+  "isDocsHomePage": false,
+  "title": "Properties",
+  "description": "Here are valuable properties of the Computed Class listed,",
+  "source": "@site/docs/packages/core/features/computed/Properties.md",
+  "sourceDirName": "packages/core/features/computed",
+  "slug": "/core/computed/properties",
+  "permalink": "/docs/core/computed/properties",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/computed/Properties.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Properties",
+  "frontMatter": {
+    "id": "properties",
+    "title": "Properties",
+    "sidebar_label": "Properties",
+    "slug": "/core/computed/properties"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/sayhello",
+  "id": "projects/sayhello",
+  "isDocsHomePage": false,
+  "title": "SayHello",
+  "description": "issue",
+  "source": "@site/docs/projects/SayHello.md",
+  "sourceDirName": "projects",
+  "slug": "/sayhello",
+  "permalink": "/docs/sayhello",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/SayHello.md",
+  "version": "current",
+  "lastUpdatedAt": 1625335369,
+  "formattedLastUpdatedAt": "7/3/2021",
+  "sidebar_label": "Say Hello",
+  "frontMatter": {
+    "id": "sayhello",
+    "title": "Say Hello",
+    "sidebar_label": "Say Hello",
+    "slug": "/sayhello"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Doc Stream",
+    "permalink": "/docs/docstream"
+  },
+  "next": {
+    "title": "BondMantainer",
+    "permalink": "/docs/bondmantainer"
+  }
+}

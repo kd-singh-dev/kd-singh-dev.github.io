@@ -1,0 +1,316 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "main/introduction",
+          "docs": [
+            {
+              "id": "achievements",
+              "path": "/docs/achievements",
+              "sidebar": "docs"
+            },
+            {
+              "id": "examples/introduction",
+              "path": "/docs/examples"
+            },
+            {
+              "id": "examples/react-native/examples/first-state",
+              "path": "/docs/examples/react-native/first-state"
+            },
+            {
+              "id": "examples/react-native/introduction",
+              "path": "/docs/examples/react-native"
+            },
+            {
+              "id": "examples/react/examples/first-collection",
+              "path": "/docs/examples/react/first-collection"
+            },
+            {
+              "id": "examples/react/examples/first-computed",
+              "path": "/docs/examples/react/first-computed"
+            },
+            {
+              "id": "examples/react/examples/first-state",
+              "path": "/docs/examples/react/first-state"
+            },
+            {
+              "id": "examples/react/examples/first-state-class",
+              "path": "/docs/examples/react/class/first-state"
+            },
+            {
+              "id": "examples/react/examples/frequent-updates",
+              "path": "/docs/examples/react/frequent-updates"
+            },
+            {
+              "id": "examples/react/examples/large-state",
+              "path": "/docs/examples/react/large-state"
+            },
+            {
+              "id": "examples/react/examples/multieditor",
+              "path": "/docs/examples/react/multieditor"
+            },
+            {
+              "id": "examples/react/examples/simple-todo-list",
+              "path": "/docs/examples/react/simple-todo-list"
+            },
+            {
+              "id": "examples/react/examples/simple-useproxy",
+              "path": "/docs/examples/react/simple-useproxy"
+            },
+            {
+              "id": "examples/react/introduction",
+              "path": "/docs/examples/react"
+            },
+            {
+              "id": "examples/vue/examples/first-collection",
+              "path": "/docs/examples/vue/first-collection"
+            },
+            {
+              "id": "examples/vue/examples/first-state",
+              "path": "/docs/examples/vue/first-state"
+            },
+            {
+              "id": "examples/vue/introduction",
+              "path": "/docs/examples/vue"
+            },
+            {
+              "id": "freelancing",
+              "path": "/docs/freelancing",
+              "sidebar": "docs"
+            },
+            {
+              "id": "hackathons",
+              "path": "/docs/hackathons",
+              "sidebar": "docs"
+            },
+            {
+              "id": "interfaces",
+              "path": "/docs/interfaces"
+            },
+            {
+              "id": "interfaces",
+              "path": "/docs/aboutme"
+            },
+            {
+              "id": "main/introduction",
+              "path": "/docs/introduction",
+              "sidebar": "docs"
+            },
+            {
+              "id": "other/docsearch",
+              "path": "/docs/docsearch"
+            },
+            {
+              "id": "other/md-playground",
+              "path": "/docs/md/playground"
+            },
+            {
+              "id": "packages/api/installation",
+              "path": "/docs/api/installation"
+            },
+            {
+              "id": "packages/api/introduction",
+              "path": "/docs/api"
+            },
+            {
+              "id": "packages/core/features/agile-instance/introduction",
+              "path": "/docs/core/agile-instance"
+            },
+            {
+              "id": "packages/core/features/agile-instance/methods",
+              "path": "/docs/core/agile-instance/methods"
+            },
+            {
+              "id": "packages/core/features/agile-instance/properties",
+              "path": "/docs/core/agile-instance/properties"
+            },
+            {
+              "id": "packages/core/features/collection/group/introduction",
+              "path": "/docs/core/collection/group"
+            },
+            {
+              "id": "packages/core/features/collection/group/methods",
+              "path": "/docs/core/collection/group/methods"
+            },
+            {
+              "id": "packages/core/features/collection/group/properties",
+              "path": "/docs/core/collection/group/properties"
+            },
+            {
+              "id": "packages/core/features/collection/introduction",
+              "path": "/docs/core/collection"
+            },
+            {
+              "id": "packages/core/features/collection/methods",
+              "path": "/docs/core/collection/methods"
+            },
+            {
+              "id": "packages/core/features/collection/properties",
+              "path": "/docs/core/collection/properties"
+            },
+            {
+              "id": "packages/core/features/collection/recipes",
+              "path": "/docs/core/collection/recipes"
+            },
+            {
+              "id": "packages/core/features/collection/selector/introduction",
+              "path": "/docs/core/collection/selector"
+            },
+            {
+              "id": "packages/core/features/collection/selector/methods",
+              "path": "/docs/core/collection/selector/methods"
+            },
+            {
+              "id": "packages/core/features/collection/selector/properties",
+              "path": "/docs/core/collection/selector/properties"
+            },
+            {
+              "id": "packages/core/features/computed/introduction",
+              "path": "/docs/core/computed"
+            },
+            {
+              "id": "packages/core/features/computed/methods",
+              "path": "/docs/core/computed/methods"
+            },
+            {
+              "id": "packages/core/features/computed/properties",
+              "path": "/docs/core/computed/properties"
+            },
+            {
+              "id": "packages/core/features/integration/introduction",
+              "path": "/docs/core/integration"
+            },
+            {
+              "id": "packages/core/features/state/introduction",
+              "path": "/docs/core/state"
+            },
+            {
+              "id": "packages/core/features/state/methods",
+              "path": "/docs/core/state/methods"
+            },
+            {
+              "id": "packages/core/features/state/properties",
+              "path": "/docs/core/state/properties"
+            },
+            {
+              "id": "packages/core/features/storage/introduction",
+              "path": "/docs/core/storage"
+            },
+            {
+              "id": "packages/core/features/storage/persisting-data",
+              "path": "/docs/core/persisting-data"
+            },
+            {
+              "id": "packages/core/installation",
+              "path": "/docs/core/installation"
+            },
+            {
+              "id": "packages/core/introduction",
+              "path": "/docs/core"
+            },
+            {
+              "id": "packages/event/features/hooks",
+              "path": "/docs/event/hooks"
+            },
+            {
+              "id": "packages/event/installation",
+              "path": "/docs/event/installation"
+            },
+            {
+              "id": "packages/event/introduction",
+              "path": "/docs/event"
+            },
+            {
+              "id": "packages/multieditor/installation",
+              "path": "/docs/multieditor/installation"
+            },
+            {
+              "id": "packages/multieditor/introduction",
+              "path": "/docs/multieditor"
+            },
+            {
+              "id": "packages/react/features/agileHOC",
+              "path": "/docs/react/AgileHOC"
+            },
+            {
+              "id": "packages/react/features/hooks",
+              "path": "/docs/react/hooks"
+            },
+            {
+              "id": "packages/react/installation",
+              "path": "/docs/react/installation"
+            },
+            {
+              "id": "packages/react/introduction",
+              "path": "/docs/react"
+            },
+            {
+              "id": "packages/vue/installation",
+              "path": "/docs/vue/installation"
+            },
+            {
+              "id": "packages/vue/introduction",
+              "path": "/docs/vue"
+            },
+            {
+              "id": "projects/BondMantainer",
+              "path": "/docs/bondmantainer",
+              "sidebar": "docs"
+            },
+            {
+              "id": "projects/docstream",
+              "path": "/docs/docstream",
+              "sidebar": "docs"
+            },
+            {
+              "id": "projects/getbus",
+              "path": "/docs/getbus",
+              "sidebar": "docs"
+            },
+            {
+              "id": "projects/gitcli",
+              "path": "/docs/gitcli",
+              "sidebar": "docs"
+            },
+            {
+              "id": "projects/instabot",
+              "path": "/docs/instabot",
+              "sidebar": "docs"
+            },
+            {
+              "id": "projects/intro",
+              "path": "/docs/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "projects/portfolio",
+              "path": "/docs/portfolio",
+              "sidebar": "docs"
+            },
+            {
+              "id": "projects/sayhello",
+              "path": "/docs/sayhello",
+              "sidebar": "docs"
+            },
+            {
+              "id": "projects/travelbuddy",
+              "path": "/docs/travelbuddy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "projects/youtubeapi",
+              "path": "/docs/youtubeapi",
+              "sidebar": "docs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

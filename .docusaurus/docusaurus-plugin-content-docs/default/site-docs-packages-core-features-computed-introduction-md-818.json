@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/computed/introduction",
+  "id": "packages/core/features/computed/introduction",
+  "isDocsHomePage": false,
+  "title": "Computed",
+  "description": "A Computed is an extension of the State Class that computes its value from a provided function.",
+  "source": "@site/docs/packages/core/features/computed/Introduction.md",
+  "sourceDirName": "packages/core/features/computed",
+  "slug": "/core/computed",
+  "permalink": "/docs/core/computed",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/computed/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Computed",
+    "sidebar_label": "Introduction",
+    "slug": "/core/computed"
+  }
+}

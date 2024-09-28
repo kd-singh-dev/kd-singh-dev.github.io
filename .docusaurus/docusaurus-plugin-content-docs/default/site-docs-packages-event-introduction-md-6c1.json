@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/event/introduction",
+  "id": "packages/event/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "WIP Package currently only supporting React!",
+  "source": "@site/docs/packages/event/Introduction.md",
+  "sourceDirName": "packages/event",
+  "slug": "/event",
+  "permalink": "/docs/event",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/event/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "sidebar_label": "Introduction",
+    "slug": "/event"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/gitcli",
+  "id": "projects/gitcli",
+  "isDocsHomePage": false,
+  "title": "Git Cli",
+  "description": "Table of Contents",
+  "source": "@site/docs/projects/git_cli.md",
+  "sourceDirName": "projects",
+  "slug": "/gitcli",
+  "permalink": "/docs/gitcli",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/git_cli.md",
+  "version": "current",
+  "lastUpdatedAt": 1655640372,
+  "formattedLastUpdatedAt": "6/19/2022",
+  "sidebar_label": "Git Cli",
+  "frontMatter": {
+    "id": "gitcli",
+    "title": "Git Cli",
+    "sidebar_label": "Git Cli",
+    "slug": "/gitcli"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Portfolio",
+    "permalink": "/docs/portfolio"
+  },
+  "next": {
+    "title": "youtube-API",
+    "permalink": "/docs/youtubeapi"
+  }
+}

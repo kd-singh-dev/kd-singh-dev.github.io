@@ -1,0 +1,1832 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs",
+          "versionEditUrlLocalized": "https://github.com/kd-singh-dev/documentation/tree/develop/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/vc/Code/Personal/kd-singh-dev.github.io/sidebars.js",
+          "contentPath": "/Users/vc/Code/Personal/kd-singh-dev.github.io/docs",
+          "contentPathLocalized": "/Users/vc/Code/Personal/kd-singh-dev.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "main/introduction",
+          "sidebars": {
+            "docs": [
+              {
+                "collapsed": false,
+                "type": "category",
+                "label": "About me",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "main/introduction"
+                  }
+                ]
+              },
+              {
+                "collapsed": false,
+                "type": "category",
+                "label": "Projects",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "projects/intro"
+                  },
+                  {
+                    "collapsed": true,
+                    "type": "category",
+                    "label": "Full Stack",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "projects/getbus"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "projects/docstream"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "projects/sayhello"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "projects/BondMantainer"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "projects/travelbuddy"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "projects/portfolio"
+                      }
+                    ]
+                  },
+                  {
+                    "collapsed": true,
+                    "type": "category",
+                    "label": "Automations",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "projects/gitcli"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "projects/youtubeapi"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "projects/instabot"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "doc",
+                    "id": "hackathons"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "freelancing"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "achievements"
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/achievements": "docs",
+            "/docs/freelancing": "docs",
+            "/docs/hackathons": "docs",
+            "/docs/introduction": "docs",
+            "/docs/bondmantainer": "docs",
+            "/docs/docstream": "docs",
+            "/docs/getbus": "docs",
+            "/docs/gitcli": "docs",
+            "/docs/instabot": "docs",
+            "/docs/intro": "docs",
+            "/docs/portfolio": "docs",
+            "/docs/sayhello": "docs",
+            "/docs/travelbuddy": "docs",
+            "/docs/youtubeapi": "docs"
+          },
+          "docs": [
+            {
+              "unversionedId": "achievements",
+              "id": "achievements",
+              "isDocsHomePage": false,
+              "title": "Achievements",
+              "description": "Best Beginners Hack in HackOffv3.O",
+              "source": "@site/docs/achievements.md",
+              "sourceDirName": ".",
+              "slug": "/achievements",
+              "permalink": "/docs/achievements",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/achievements.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Achievements",
+              "frontMatter": {
+                "id": "achievements",
+                "title": "Achievements",
+                "sidebar_label": "Achievements",
+                "slug": "/achievements"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Freelancing",
+                "permalink": "/docs/freelancing"
+              }
+            },
+            {
+              "unversionedId": "examples/introduction",
+              "id": "examples/introduction",
+              "isDocsHomePage": false,
+              "title": "Examples",
+              "description": "Most of the time you can learn something better by seeing it in action.",
+              "source": "@site/docs/examples/Introduction.md",
+              "sourceDirName": "examples",
+              "slug": "/examples",
+              "permalink": "/docs/examples",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Examples",
+                "sidebar_label": "Introduction",
+                "slug": "/examples"
+              }
+            },
+            {
+              "unversionedId": "examples/react-native/examples/first-state",
+              "id": "examples/react-native/examples/first-state",
+              "isDocsHomePage": false,
+              "title": "First State",
+              "description": "",
+              "source": "@site/docs/examples/react-native/examples/FirstState.mdx",
+              "sourceDirName": "examples/react-native/examples",
+              "slug": "/examples/react-native/first-state",
+              "permalink": "/docs/examples/react-native/first-state",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react-native/examples/FirstState.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "First State",
+              "frontMatter": {
+                "id": "first-state",
+                "title": "First State",
+                "sidebar_label": "First State",
+                "slug": "/examples/react-native/first-state"
+              }
+            },
+            {
+              "unversionedId": "examples/react-native/introduction",
+              "id": "examples/react-native/introduction",
+              "isDocsHomePage": false,
+              "title": "React-Native Examples",
+              "description": "🤠 Get Started",
+              "source": "@site/docs/examples/react-native/Introduction.md",
+              "sourceDirName": "examples/react-native",
+              "slug": "/examples/react-native",
+              "permalink": "/docs/examples/react-native",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react-native/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "React-Native",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "React-Native Examples",
+                "sidebar_label": "React-Native",
+                "slug": "/examples/react-native"
+              }
+            },
+            {
+              "unversionedId": "examples/react/examples/first-collection",
+              "id": "examples/react/examples/first-collection",
+              "isDocsHomePage": false,
+              "title": "First Collection",
+              "description": "",
+              "source": "@site/docs/examples/react/examples/FirstCollection.mdx",
+              "sourceDirName": "examples/react/examples",
+              "slug": "/examples/react/first-collection",
+              "permalink": "/docs/examples/react/first-collection",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/FirstCollection.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "First Collection",
+              "frontMatter": {
+                "id": "first-collection",
+                "title": "First Collection",
+                "sidebar_label": "First Collection",
+                "slug": "/examples/react/first-collection"
+              }
+            },
+            {
+              "unversionedId": "examples/react/examples/first-computed",
+              "id": "examples/react/examples/first-computed",
+              "isDocsHomePage": false,
+              "title": "First Computed",
+              "description": "",
+              "source": "@site/docs/examples/react/examples/FirstComputed.mdx",
+              "sourceDirName": "examples/react/examples",
+              "slug": "/examples/react/first-computed",
+              "permalink": "/docs/examples/react/first-computed",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/FirstComputed.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "First Computed",
+              "frontMatter": {
+                "id": "first-computed",
+                "title": "First Computed",
+                "sidebar_label": "First Computed",
+                "slug": "/examples/react/first-computed"
+              }
+            },
+            {
+              "unversionedId": "examples/react/examples/first-state",
+              "id": "examples/react/examples/first-state",
+              "isDocsHomePage": false,
+              "title": "First State",
+              "description": "",
+              "source": "@site/docs/examples/react/examples/FirstState.mdx",
+              "sourceDirName": "examples/react/examples",
+              "slug": "/examples/react/first-state",
+              "permalink": "/docs/examples/react/first-state",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/FirstState.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "First State",
+              "frontMatter": {
+                "id": "first-state",
+                "title": "First State",
+                "sidebar_label": "First State",
+                "slug": "/examples/react/first-state"
+              }
+            },
+            {
+              "unversionedId": "examples/react/examples/first-state-class",
+              "id": "examples/react/examples/first-state-class",
+              "isDocsHomePage": false,
+              "title": "First State",
+              "description": "",
+              "source": "@site/docs/examples/react/examples/FirstState_Class.mdx",
+              "sourceDirName": "examples/react/examples",
+              "slug": "/examples/react/class/first-state",
+              "permalink": "/docs/examples/react/class/first-state",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/FirstState_Class.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "First State",
+              "frontMatter": {
+                "id": "first-state-class",
+                "title": "First State",
+                "sidebar_label": "First State",
+                "slug": "/examples/react/class/first-state"
+              }
+            },
+            {
+              "unversionedId": "examples/react/examples/frequent-updates",
+              "id": "examples/react/examples/frequent-updates",
+              "isDocsHomePage": false,
+              "title": "Frequent Updates",
+              "description": "",
+              "source": "@site/docs/examples/react/examples/FrequentUpdates.mdx",
+              "sourceDirName": "examples/react/examples",
+              "slug": "/examples/react/frequent-updates",
+              "permalink": "/docs/examples/react/frequent-updates",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/FrequentUpdates.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Frequent Updates",
+              "frontMatter": {
+                "id": "frequent-updates",
+                "title": "Frequent Updates",
+                "sidebar_label": "Frequent Updates",
+                "slug": "/examples/react/frequent-updates"
+              }
+            },
+            {
+              "unversionedId": "examples/react/examples/large-state",
+              "id": "examples/react/examples/large-state",
+              "isDocsHomePage": false,
+              "title": "Large State",
+              "description": "",
+              "source": "@site/docs/examples/react/examples/LargeState.mdx",
+              "sourceDirName": "examples/react/examples",
+              "slug": "/examples/react/large-state",
+              "permalink": "/docs/examples/react/large-state",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/LargeState.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Large State",
+              "frontMatter": {
+                "id": "large-state",
+                "title": "Large State",
+                "sidebar_label": "Large State",
+                "slug": "/examples/react/large-state"
+              }
+            },
+            {
+              "unversionedId": "examples/react/examples/multieditor",
+              "id": "examples/react/examples/multieditor",
+              "isDocsHomePage": false,
+              "title": "MultiEditor",
+              "description": "",
+              "source": "@site/docs/examples/react/examples/Multieditor.mdx",
+              "sourceDirName": "examples/react/examples",
+              "slug": "/examples/react/multieditor",
+              "permalink": "/docs/examples/react/multieditor",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/Multieditor.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "MultiEditor",
+              "frontMatter": {
+                "id": "multieditor",
+                "title": "MultiEditor",
+                "sidebar_label": "MultiEditor",
+                "slug": "/examples/react/multieditor"
+              }
+            },
+            {
+              "unversionedId": "examples/react/examples/simple-todo-list",
+              "id": "examples/react/examples/simple-todo-list",
+              "isDocsHomePage": false,
+              "title": "Simple Todo List",
+              "description": "",
+              "source": "@site/docs/examples/react/examples/SimpleTodoList.mdx",
+              "sourceDirName": "examples/react/examples",
+              "slug": "/examples/react/simple-todo-list",
+              "permalink": "/docs/examples/react/simple-todo-list",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/SimpleTodoList.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Simple Todo List",
+              "frontMatter": {
+                "id": "simple-todo-list",
+                "title": "Simple Todo List",
+                "sidebar_label": "Simple Todo List",
+                "slug": "/examples/react/simple-todo-list"
+              }
+            },
+            {
+              "unversionedId": "examples/react/examples/simple-useproxy",
+              "id": "examples/react/examples/simple-useproxy",
+              "isDocsHomePage": false,
+              "title": "Simple useProxy",
+              "description": "",
+              "source": "@site/docs/examples/react/examples/SimpleUseProxy.mdx",
+              "sourceDirName": "examples/react/examples",
+              "slug": "/examples/react/simple-useproxy",
+              "permalink": "/docs/examples/react/simple-useproxy",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/SimpleUseProxy.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Simple useProxy",
+              "frontMatter": {
+                "id": "simple-useproxy",
+                "title": "Simple useProxy",
+                "sidebar_label": "Simple useProxy",
+                "slug": "/examples/react/simple-useproxy"
+              }
+            },
+            {
+              "unversionedId": "examples/react/introduction",
+              "id": "examples/react/introduction",
+              "isDocsHomePage": false,
+              "title": "React Examples",
+              "description": "🤠 Get Started",
+              "source": "@site/docs/examples/react/Introduction.md",
+              "sourceDirName": "examples/react",
+              "slug": "/examples/react",
+              "permalink": "/docs/examples/react",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "React",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "React Examples",
+                "sidebar_label": "React",
+                "slug": "/examples/react"
+              }
+            },
+            {
+              "unversionedId": "examples/vue/examples/first-collection",
+              "id": "examples/vue/examples/first-collection",
+              "isDocsHomePage": false,
+              "title": "First Collection",
+              "description": "",
+              "source": "@site/docs/examples/vue/examples/FirstCollection.mdx",
+              "sourceDirName": "examples/vue/examples",
+              "slug": "/examples/vue/first-collection",
+              "permalink": "/docs/examples/vue/first-collection",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/vue/examples/FirstCollection.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "First Collection",
+              "frontMatter": {
+                "id": "first-collection",
+                "title": "First Collection",
+                "sidebar_label": "First Collection",
+                "slug": "/examples/vue/first-collection"
+              }
+            },
+            {
+              "unversionedId": "examples/vue/examples/first-state",
+              "id": "examples/vue/examples/first-state",
+              "isDocsHomePage": false,
+              "title": "First State",
+              "description": "",
+              "source": "@site/docs/examples/vue/examples/FirstState.mdx",
+              "sourceDirName": "examples/vue/examples",
+              "slug": "/examples/vue/first-state",
+              "permalink": "/docs/examples/vue/first-state",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/vue/examples/FirstState.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "First State",
+              "frontMatter": {
+                "id": "first-state",
+                "title": "First State",
+                "sidebar_label": "First State",
+                "slug": "/examples/vue/first-state"
+              }
+            },
+            {
+              "unversionedId": "examples/vue/introduction",
+              "id": "examples/vue/introduction",
+              "isDocsHomePage": false,
+              "title": "Vue Examples",
+              "description": "🤠 Get Started",
+              "source": "@site/docs/examples/vue/Introduction.md",
+              "sourceDirName": "examples/vue",
+              "slug": "/examples/vue",
+              "permalink": "/docs/examples/vue",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/vue/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Vue",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Vue Examples",
+                "sidebar_label": "Vue",
+                "slug": "/examples/vue"
+              }
+            },
+            {
+              "unversionedId": "freelancing",
+              "id": "freelancing",
+              "isDocsHomePage": false,
+              "title": "Freelancing",
+              "description": "spectrum",
+              "source": "@site/docs/freelancing.md",
+              "sourceDirName": ".",
+              "slug": "/freelancing",
+              "permalink": "/docs/freelancing",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/freelancing.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Hackathons",
+                "permalink": "/docs/hackathons"
+              },
+              "next": {
+                "title": "Achievements",
+                "permalink": "/docs/achievements"
+              }
+            },
+            {
+              "unversionedId": "hackathons",
+              "id": "hackathons",
+              "isDocsHomePage": false,
+              "title": "Hackathons",
+              "description": "HackOff v3.0 🌟",
+              "source": "@site/docs/hackathons.md",
+              "sourceDirName": ".",
+              "slug": "/hackathons",
+              "permalink": "/docs/hackathons",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/hackathons.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Insta Bot",
+                "permalink": "/docs/instabot"
+              },
+              "next": {
+                "title": "Freelancing",
+                "permalink": "/docs/freelancing"
+              }
+            },
+            {
+              "unversionedId": "interfaces",
+              "id": "interfaces",
+              "isDocsHomePage": false,
+              "title": "Interfaces",
+              "description": "This Section might be useless to you without any context.",
+              "source": "@site/docs/Interfaces.md",
+              "sourceDirName": ".",
+              "slug": "/interfaces",
+              "permalink": "/docs/interfaces",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/Interfaces.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Interfaces",
+              "frontMatter": {
+                "id": "interfaces",
+                "title": "Interfaces",
+                "sidebar_label": "Interfaces",
+                "slug": "/interfaces"
+              }
+            },
+            {
+              "unversionedId": "interfaces",
+              "id": "interfaces",
+              "isDocsHomePage": false,
+              "title": "Interfaces",
+              "description": "",
+              "source": "@site/docs/aboutme.md",
+              "sourceDirName": ".",
+              "slug": "/aboutme",
+              "permalink": "/docs/aboutme",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/aboutme.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Interfaces",
+              "frontMatter": {
+                "id": "interfaces",
+                "title": "Interfaces",
+                "sidebar_label": "Interfaces",
+                "slug": "/aboutme"
+              }
+            },
+            {
+              "unversionedId": "main/introduction",
+              "id": "main/introduction",
+              "isDocsHomePage": false,
+              "title": "About",
+              "description": "Hello there!, I am karandeep Singh, Friends call me KD",
+              "source": "@site/docs/main/Introduction.md",
+              "sourceDirName": "main",
+              "slug": "/introduction",
+              "permalink": "/docs/introduction",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/main/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "About",
+                "sidebar_label": "Introduction",
+                "slug": "/introduction"
+              },
+              "sidebar": "docs",
+              "next": {
+                "title": "Intro",
+                "permalink": "/docs/intro"
+              }
+            },
+            {
+              "unversionedId": "other/docsearch",
+              "id": "other/docsearch",
+              "isDocsHomePage": false,
+              "title": "DocSearch",
+              "description": "Hello docsearch Team,",
+              "source": "@site/docs/other/DocSearch.md",
+              "sourceDirName": "other",
+              "slug": "/docsearch",
+              "permalink": "/docs/docsearch",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/other/DocSearch.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "DocSearch",
+              "frontMatter": {
+                "id": "docsearch",
+                "title": "DocSearch",
+                "sidebar_label": "DocSearch",
+                "slug": "/docsearch"
+              }
+            },
+            {
+              "unversionedId": "other/md-playground",
+              "id": "other/md-playground",
+              "isDocsHomePage": false,
+              "title": "Playground",
+              "description": "bold",
+              "source": "@site/docs/other/Playground.md",
+              "sourceDirName": "other",
+              "slug": "/md/playground",
+              "permalink": "/docs/md/playground",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/other/Playground.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Playground",
+              "frontMatter": {
+                "id": "md-playground",
+                "title": "Playground",
+                "sidebar_label": "Playground",
+                "slug": "/md/playground"
+              }
+            },
+            {
+              "unversionedId": "packages/api/installation",
+              "id": "packages/api/installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "The api package can be installed over npm.",
+              "source": "@site/docs/packages/api/Installation.md",
+              "sourceDirName": "packages/api",
+              "slug": "/api/installation",
+              "permalink": "/docs/api/installation",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/api/Installation.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Installation",
+              "frontMatter": {
+                "id": "installation",
+                "title": "Installation",
+                "sidebar_label": "Installation",
+                "slug": "/api/installation"
+              }
+            },
+            {
+              "unversionedId": "packages/api/introduction",
+              "id": "packages/api/introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "WIP Package!",
+              "source": "@site/docs/packages/api/Introduction.md",
+              "sourceDirName": "packages/api",
+              "slug": "/api",
+              "permalink": "/docs/api",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/api/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Introduction",
+                "sidebar_label": "Introduction",
+                "slug": "/api"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/agile-instance/introduction",
+              "id": "packages/core/features/agile-instance/introduction",
+              "isDocsHomePage": false,
+              "title": "Agile Instance",
+              "description": "The Agile Class is the main Instance of AgileTs and should be unique to our application.",
+              "source": "@site/docs/packages/core/features/agile-instance/Introduction.md",
+              "sourceDirName": "packages/core/features/agile-instance",
+              "slug": "/core/agile-instance",
+              "permalink": "/docs/core/agile-instance",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/agile-instance/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Agile Instance",
+                "sidebar_label": "Introduction",
+                "slug": "/core/agile-instance"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/agile-instance/methods",
+              "id": "packages/core/features/agile-instance/methods",
+              "isDocsHomePage": false,
+              "title": "Methods",
+              "description": "Here are valuable methods of the Agile Class listed.",
+              "source": "@site/docs/packages/core/features/agile-instance/Methods.md",
+              "sourceDirName": "packages/core/features/agile-instance",
+              "slug": "/core/agile-instance/methods",
+              "permalink": "/docs/core/agile-instance/methods",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/agile-instance/Methods.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Methods",
+              "frontMatter": {
+                "id": "methods",
+                "title": "Methods",
+                "sidebar_label": "Methods",
+                "slug": "/core/agile-instance/methods"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/agile-instance/properties",
+              "id": "packages/core/features/agile-instance/properties",
+              "isDocsHomePage": false,
+              "title": "Properties",
+              "description": "Here are valuable properties of the Agile Class listed.",
+              "source": "@site/docs/packages/core/features/agile-instance/Properties.md",
+              "sourceDirName": "packages/core/features/agile-instance",
+              "slug": "/core/agile-instance/properties",
+              "permalink": "/docs/core/agile-instance/properties",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/agile-instance/Properties.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Properties",
+              "frontMatter": {
+                "id": "properties",
+                "title": "Properties",
+                "sidebar_label": "Properties",
+                "slug": "/core/agile-instance/properties"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/group/introduction",
+              "id": "packages/core/features/collection/group/introduction",
+              "isDocsHomePage": false,
+              "title": "Group",
+              "description": "A Group categorizes and preserves the ordering of structured data.",
+              "source": "@site/docs/packages/core/features/collection/group/Introduction.md",
+              "sourceDirName": "packages/core/features/collection/group",
+              "slug": "/core/collection/group",
+              "permalink": "/docs/core/collection/group",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/group/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Group",
+                "sidebar_label": "Introduction",
+                "slug": "/core/collection/group"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/group/methods",
+              "id": "packages/core/features/collection/group/methods",
+              "isDocsHomePage": false,
+              "title": "Methods",
+              "description": "Here are valuable methods of the Group Class listed,",
+              "source": "@site/docs/packages/core/features/collection/group/Methods.md",
+              "sourceDirName": "packages/core/features/collection/group",
+              "slug": "/core/collection/group/methods",
+              "permalink": "/docs/core/collection/group/methods",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/group/Methods.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Methods",
+              "frontMatter": {
+                "id": "methods",
+                "title": "Methods",
+                "sidebar_label": "Methods",
+                "slug": "/core/collection/group/methods"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/group/properties",
+              "id": "packages/core/features/collection/group/properties",
+              "isDocsHomePage": false,
+              "title": "Properties",
+              "description": "Here are valuable properties of the Group Class listed,",
+              "source": "@site/docs/packages/core/features/collection/group/Properties.md",
+              "sourceDirName": "packages/core/features/collection/group",
+              "slug": "/core/collection/group/properties",
+              "permalink": "/docs/core/collection/group/properties",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/group/Properties.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Properties",
+              "frontMatter": {
+                "id": "properties",
+                "title": "Properties",
+                "sidebar_label": "Properties",
+                "slug": "/core/collection/group/properties"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/introduction",
+              "id": "packages/core/features/collection/introduction",
+              "isDocsHomePage": false,
+              "title": "Collection",
+              "description": "A Collection provides a reactive set of Information that we need to remember globally at a later point in time.",
+              "source": "@site/docs/packages/core/features/collection/Introduction.md",
+              "sourceDirName": "packages/core/features/collection",
+              "slug": "/core/collection",
+              "permalink": "/docs/core/collection",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Collection",
+                "sidebar_label": "Introduction",
+                "slug": "/core/collection"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/methods",
+              "id": "packages/core/features/collection/methods",
+              "isDocsHomePage": false,
+              "title": "Methods",
+              "description": "Here are valuable methods of the Collection Class listed.",
+              "source": "@site/docs/packages/core/features/collection/Methods.md",
+              "sourceDirName": "packages/core/features/collection",
+              "slug": "/core/collection/methods",
+              "permalink": "/docs/core/collection/methods",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/Methods.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Methods",
+              "frontMatter": {
+                "id": "methods",
+                "title": "Methods",
+                "sidebar_label": "Methods",
+                "slug": "/core/collection/methods"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/properties",
+              "id": "packages/core/features/collection/properties",
+              "isDocsHomePage": false,
+              "title": "Properties",
+              "description": "Here are valuable properties of the Collection Class listed.",
+              "source": "@site/docs/packages/core/features/collection/Properties.md",
+              "sourceDirName": "packages/core/features/collection",
+              "slug": "/core/collection/properties",
+              "permalink": "/docs/core/collection/properties",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/Properties.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Properties",
+              "frontMatter": {
+                "id": "properties",
+                "title": "Properties",
+                "sidebar_label": "Properties",
+                "slug": "/core/collection/properties"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/recipes",
+              "id": "packages/core/features/collection/recipes",
+              "isDocsHomePage": false,
+              "title": "Recipes",
+              "description": "WIP Section",
+              "source": "@site/docs/packages/core/features/collection/Recipes.md",
+              "sourceDirName": "packages/core/features/collection",
+              "slug": "/core/collection/recipes",
+              "permalink": "/docs/core/collection/recipes",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/Recipes.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Recipes",
+              "frontMatter": {
+                "id": "recipes",
+                "title": "Recipes",
+                "sidebar_label": "Recipes",
+                "slug": "/core/collection/recipes"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/selector/introduction",
+              "id": "packages/core/features/collection/selector/introduction",
+              "isDocsHomePage": false,
+              "title": "Selector",
+              "description": "A Selector represents one specific Item from a Collection in the long term.",
+              "source": "@site/docs/packages/core/features/collection/selector/Introduction.md",
+              "sourceDirName": "packages/core/features/collection/selector",
+              "slug": "/core/collection/selector",
+              "permalink": "/docs/core/collection/selector",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/selector/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Selector",
+                "sidebar_label": "Introduction",
+                "slug": "/core/collection/selector"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/selector/methods",
+              "id": "packages/core/features/collection/selector/methods",
+              "isDocsHomePage": false,
+              "title": "Methods",
+              "description": "Here are valuable methods of the Selector Class listed,",
+              "source": "@site/docs/packages/core/features/collection/selector/Methods.md",
+              "sourceDirName": "packages/core/features/collection/selector",
+              "slug": "/core/collection/selector/methods",
+              "permalink": "/docs/core/collection/selector/methods",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/selector/Methods.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Methods",
+              "frontMatter": {
+                "id": "methods",
+                "title": "Methods",
+                "sidebar_label": "Methods",
+                "slug": "/core/collection/selector/methods"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/collection/selector/properties",
+              "id": "packages/core/features/collection/selector/properties",
+              "isDocsHomePage": false,
+              "title": "Properties",
+              "description": "Here are valuable properties of the Selector Class listed,",
+              "source": "@site/docs/packages/core/features/collection/selector/Properties.md",
+              "sourceDirName": "packages/core/features/collection/selector",
+              "slug": "/core/collection/selector/properties",
+              "permalink": "/docs/core/collection/selector/properties",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/selector/Properties.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Properties",
+              "frontMatter": {
+                "id": "properties",
+                "title": "Properties",
+                "sidebar_label": "Properties",
+                "slug": "/core/collection/selector/properties"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/computed/introduction",
+              "id": "packages/core/features/computed/introduction",
+              "isDocsHomePage": false,
+              "title": "Computed",
+              "description": "A Computed is an extension of the State Class that computes its value from a provided function.",
+              "source": "@site/docs/packages/core/features/computed/Introduction.md",
+              "sourceDirName": "packages/core/features/computed",
+              "slug": "/core/computed",
+              "permalink": "/docs/core/computed",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/computed/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Computed",
+                "sidebar_label": "Introduction",
+                "slug": "/core/computed"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/computed/methods",
+              "id": "packages/core/features/computed/methods",
+              "isDocsHomePage": false,
+              "title": "Methods",
+              "description": "Here are valuable methods of the Computed Class listed,",
+              "source": "@site/docs/packages/core/features/computed/Methods.md",
+              "sourceDirName": "packages/core/features/computed",
+              "slug": "/core/computed/methods",
+              "permalink": "/docs/core/computed/methods",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/computed/Methods.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Methods",
+              "frontMatter": {
+                "id": "methods",
+                "title": "Methods",
+                "sidebar_label": "Methods",
+                "slug": "/core/computed/methods"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/computed/properties",
+              "id": "packages/core/features/computed/properties",
+              "isDocsHomePage": false,
+              "title": "Properties",
+              "description": "Here are valuable properties of the Computed Class listed,",
+              "source": "@site/docs/packages/core/features/computed/Properties.md",
+              "sourceDirName": "packages/core/features/computed",
+              "slug": "/core/computed/properties",
+              "permalink": "/docs/core/computed/properties",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/computed/Properties.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Properties",
+              "frontMatter": {
+                "id": "properties",
+                "title": "Properties",
+                "sidebar_label": "Properties",
+                "slug": "/core/computed/properties"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/integration/introduction",
+              "id": "packages/core/features/integration/introduction",
+              "isDocsHomePage": false,
+              "title": "Integration",
+              "description": "Most UI-Frameworks already have an Integration for AgileTs.",
+              "source": "@site/docs/packages/core/features/integration/Introduction.md",
+              "sourceDirName": "packages/core/features/integration",
+              "slug": "/core/integration",
+              "permalink": "/docs/core/integration",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/integration/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Integration",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Integration",
+                "sidebar_label": "Integration",
+                "slug": "/core/integration"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/state/introduction",
+              "id": "packages/core/features/state/introduction",
+              "isDocsHomePage": false,
+              "title": "State",
+              "description": "A State provides a piece of Information that we need to remember globally at a later point in time.",
+              "source": "@site/docs/packages/core/features/state/Introduction.md",
+              "sourceDirName": "packages/core/features/state",
+              "slug": "/core/state",
+              "permalink": "/docs/core/state",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/state/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "State",
+                "sidebar_label": "Introduction",
+                "slug": "/core/state"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/state/methods",
+              "id": "packages/core/features/state/methods",
+              "isDocsHomePage": false,
+              "title": "Methods",
+              "description": "Here are valuable methods of the State Class listed.",
+              "source": "@site/docs/packages/core/features/state/Methods.md",
+              "sourceDirName": "packages/core/features/state",
+              "slug": "/core/state/methods",
+              "permalink": "/docs/core/state/methods",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/state/Methods.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Methods",
+              "frontMatter": {
+                "id": "methods",
+                "title": "Methods",
+                "sidebar_label": "Methods",
+                "slug": "/core/state/methods"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/state/properties",
+              "id": "packages/core/features/state/properties",
+              "isDocsHomePage": false,
+              "title": "Properties",
+              "description": "Here are valuable properties of the State Class listed.",
+              "source": "@site/docs/packages/core/features/state/Properties.md",
+              "sourceDirName": "packages/core/features/state",
+              "slug": "/core/state/properties",
+              "permalink": "/docs/core/state/properties",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/state/Properties.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Properties",
+              "frontMatter": {
+                "id": "properties",
+                "title": "Properties",
+                "sidebar_label": "Properties",
+                "slug": "/core/state/properties"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/storage/introduction",
+              "id": "packages/core/features/storage/introduction",
+              "isDocsHomePage": false,
+              "title": "Storage",
+              "description": "The Storage Class serves as an interface to external Storages, like the",
+              "source": "@site/docs/packages/core/features/storage/Introduction.md",
+              "sourceDirName": "packages/core/features/storage",
+              "slug": "/core/storage",
+              "permalink": "/docs/core/storage",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/storage/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Storage",
+                "sidebar_label": "Introduction",
+                "slug": "/core/storage"
+              }
+            },
+            {
+              "unversionedId": "packages/core/features/storage/persisting-data",
+              "id": "packages/core/features/storage/persisting-data",
+              "isDocsHomePage": false,
+              "title": "Persisting Data",
+              "description": "It's common for applications to store data on the client browser.",
+              "source": "@site/docs/packages/core/features/storage/PersistingData.md",
+              "sourceDirName": "packages/core/features/storage",
+              "slug": "/core/persisting-data",
+              "permalink": "/docs/core/persisting-data",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/storage/PersistingData.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Persisting Data",
+              "frontMatter": {
+                "id": "persisting-data",
+                "title": "Persisting Data",
+                "sidebar_label": "Persisting Data",
+                "slug": "/core/persisting-data"
+              }
+            },
+            {
+              "unversionedId": "packages/core/installation",
+              "id": "packages/core/installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "The core package can be installed over npm.",
+              "source": "@site/docs/packages/core/Installation.md",
+              "sourceDirName": "packages/core",
+              "slug": "/core/installation",
+              "permalink": "/docs/core/installation",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/Installation.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Installation",
+              "frontMatter": {
+                "id": "installation",
+                "title": "Installation",
+                "sidebar_label": "Installation",
+                "slug": "/core/installation"
+              }
+            },
+            {
+              "unversionedId": "packages/core/introduction",
+              "id": "packages/core/introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "Global State and Logic Framework",
+              "source": "@site/docs/packages/core/Introduction.md",
+              "sourceDirName": "packages/core",
+              "slug": "/core",
+              "permalink": "/docs/core",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Introduction",
+                "sidebar_label": "Introduction",
+                "slug": "/core"
+              }
+            },
+            {
+              "unversionedId": "packages/event/features/hooks",
+              "id": "packages/event/features/hooks",
+              "isDocsHomePage": false,
+              "title": "Hooks",
+              "description": "useEvent",
+              "source": "@site/docs/packages/event/features/useEvent.md",
+              "sourceDirName": "packages/event/features",
+              "slug": "/event/hooks",
+              "permalink": "/docs/event/hooks",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/event/features/useEvent.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Hooks",
+              "frontMatter": {
+                "id": "hooks",
+                "title": "Hooks",
+                "sidebar_label": "Hooks",
+                "slug": "/event/hooks"
+              }
+            },
+            {
+              "unversionedId": "packages/event/installation",
+              "id": "packages/event/installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "The event package can be installed over npm.",
+              "source": "@site/docs/packages/event/Installation.md",
+              "sourceDirName": "packages/event",
+              "slug": "/event/installation",
+              "permalink": "/docs/event/installation",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/event/Installation.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Installation",
+              "frontMatter": {
+                "id": "installation",
+                "title": "Installation",
+                "sidebar_label": "Installation",
+                "slug": "/event/installation"
+              }
+            },
+            {
+              "unversionedId": "packages/event/introduction",
+              "id": "packages/event/introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "WIP Package currently only supporting React!",
+              "source": "@site/docs/packages/event/Introduction.md",
+              "sourceDirName": "packages/event",
+              "slug": "/event",
+              "permalink": "/docs/event",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/event/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Introduction",
+                "sidebar_label": "Introduction",
+                "slug": "/event"
+              }
+            },
+            {
+              "unversionedId": "packages/multieditor/installation",
+              "id": "packages/multieditor/installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "The multieditor package can be installed over npm.",
+              "source": "@site/docs/packages/multieditor/Installation.md",
+              "sourceDirName": "packages/multieditor",
+              "slug": "/multieditor/installation",
+              "permalink": "/docs/multieditor/installation",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/multieditor/Installation.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Installation",
+              "frontMatter": {
+                "id": "installation",
+                "title": "Installation",
+                "sidebar_label": "Installation",
+                "slug": "/multieditor/installation"
+              }
+            },
+            {
+              "unversionedId": "packages/multieditor/introduction",
+              "id": "packages/multieditor/introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "WIP Package!",
+              "source": "@site/docs/packages/multieditor/Introduction.md",
+              "sourceDirName": "packages/multieditor",
+              "slug": "/multieditor",
+              "permalink": "/docs/multieditor",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/multieditor/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Introduction",
+                "sidebar_label": "Introduction",
+                "slug": "/multieditor"
+              }
+            },
+            {
+              "unversionedId": "packages/react/features/agileHOC",
+              "id": "packages/react/features/agileHOC",
+              "isDocsHomePage": false,
+              "title": "AgileHOC",
+              "description": "The AgileHOC is mainly thought for Class Components,",
+              "source": "@site/docs/packages/react/features/AgileHoc.md",
+              "sourceDirName": "packages/react/features",
+              "slug": "/react/AgileHOC",
+              "permalink": "/docs/react/AgileHOC",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/react/features/AgileHoc.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "AgileHOC",
+              "frontMatter": {
+                "id": "agileHOC",
+                "title": "AgileHOC",
+                "sidebar_label": "AgileHOC",
+                "slug": "/react/AgileHOC"
+              }
+            },
+            {
+              "unversionedId": "packages/react/features/hooks",
+              "id": "packages/react/features/hooks",
+              "isDocsHomePage": false,
+              "title": "React Hooks",
+              "description": "Keep in mind that React Hooks are only supported in Functional React Components!",
+              "source": "@site/docs/packages/react/features/Hooks.md",
+              "sourceDirName": "packages/react/features",
+              "slug": "/react/hooks",
+              "permalink": "/docs/react/hooks",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/react/features/Hooks.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "React Hooks",
+              "frontMatter": {
+                "id": "hooks",
+                "title": "React Hooks",
+                "sidebar_label": "React Hooks",
+                "slug": "/react/hooks"
+              }
+            },
+            {
+              "unversionedId": "packages/react/installation",
+              "id": "packages/react/installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "The react package can be installed over npm.",
+              "source": "@site/docs/packages/react/Installation.md",
+              "sourceDirName": "packages/react",
+              "slug": "/react/installation",
+              "permalink": "/docs/react/installation",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/react/Installation.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Installation",
+              "frontMatter": {
+                "id": "installation",
+                "title": "Installation",
+                "sidebar_label": "Installation",
+                "slug": "/react/installation"
+              }
+            },
+            {
+              "unversionedId": "packages/react/introduction",
+              "id": "packages/react/introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "Integration for React or React-Native",
+              "source": "@site/docs/packages/react/Introduction.md",
+              "sourceDirName": "packages/react",
+              "slug": "/react",
+              "permalink": "/docs/react",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/react/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Introduction",
+                "sidebar_label": "Introduction",
+                "slug": "/react"
+              }
+            },
+            {
+              "unversionedId": "packages/vue/installation",
+              "id": "packages/vue/installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "The vue package can be installed over npm.",
+              "source": "@site/docs/packages/vue/Installation.md",
+              "sourceDirName": "packages/vue",
+              "slug": "/vue/installation",
+              "permalink": "/docs/vue/installation",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/vue/Installation.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Installation",
+              "frontMatter": {
+                "id": "installation",
+                "title": "Installation",
+                "sidebar_label": "Installation",
+                "slug": "/vue/installation"
+              }
+            },
+            {
+              "unversionedId": "packages/vue/introduction",
+              "id": "packages/vue/introduction",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "WIP Package!",
+              "source": "@site/docs/packages/vue/Introduction.md",
+              "sourceDirName": "packages/vue",
+              "slug": "/vue",
+              "permalink": "/docs/vue",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/vue/Introduction.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Introduction",
+              "frontMatter": {
+                "id": "introduction",
+                "title": "Introduction",
+                "sidebar_label": "Introduction",
+                "slug": "/vue"
+              }
+            },
+            {
+              "unversionedId": "projects/BondMantainer",
+              "id": "projects/BondMantainer",
+              "isDocsHomePage": false,
+              "title": "BondMantainer",
+              "description": "Hosted click to visit",
+              "source": "@site/docs/projects/BondMantainer.md",
+              "sourceDirName": "projects",
+              "slug": "/bondmantainer",
+              "permalink": "/docs/bondmantainer",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/BondMantainer.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "BondMantainer",
+              "frontMatter": {
+                "id": "BondMantainer",
+                "title": "BondMantainer",
+                "sidebar_label": "BondMantainer",
+                "slug": "/bondmantainer"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "SayHello",
+                "permalink": "/docs/sayhello"
+              },
+              "next": {
+                "title": "✈ Travel-Buddy",
+                "permalink": "/docs/travelbuddy"
+              }
+            },
+            {
+              "unversionedId": "projects/docstream",
+              "id": "projects/docstream",
+              "isDocsHomePage": false,
+              "title": "Doc Stream",
+              "description": "| Hosted | Source Code |",
+              "source": "@site/docs/projects/docstream.md",
+              "sourceDirName": "projects",
+              "slug": "/docstream",
+              "permalink": "/docs/docstream",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/docstream.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "DocStream",
+              "frontMatter": {
+                "id": "docstream",
+                "title": "Doc Stream",
+                "sidebar_label": "DocStream",
+                "slug": "/docstream"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Get Bus",
+                "permalink": "/docs/getbus"
+              },
+              "next": {
+                "title": "SayHello",
+                "permalink": "/docs/sayhello"
+              }
+            },
+            {
+              "unversionedId": "projects/getbus",
+              "id": "projects/getbus",
+              "isDocsHomePage": false,
+              "title": "Get Bus",
+              "description": "| Youtube Demo | Source Code |",
+              "source": "@site/docs/projects/GetBus.md",
+              "sourceDirName": "projects",
+              "slug": "/getbus",
+              "permalink": "/docs/getbus",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/GetBus.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Get Bus",
+              "frontMatter": {
+                "id": "getbus",
+                "title": "Get Bus",
+                "sidebar_label": "Get Bus",
+                "slug": "/getbus"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Doc Stream",
+                "permalink": "/docs/docstream"
+              }
+            },
+            {
+              "unversionedId": "projects/gitcli",
+              "id": "projects/gitcli",
+              "isDocsHomePage": false,
+              "title": "Git Cli",
+              "description": "Table of Contents",
+              "source": "@site/docs/projects/git_cli.md",
+              "sourceDirName": "projects",
+              "slug": "/gitcli",
+              "permalink": "/docs/gitcli",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/git_cli.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Git Cli",
+              "frontMatter": {
+                "id": "gitcli",
+                "title": "Git Cli",
+                "sidebar_label": "Git Cli",
+                "slug": "/gitcli"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Portfolio",
+                "permalink": "/docs/portfolio"
+              },
+              "next": {
+                "title": "youtube-API",
+                "permalink": "/docs/youtubeapi"
+              }
+            },
+            {
+              "unversionedId": "projects/instabot",
+              "id": "projects/instabot",
+              "isDocsHomePage": false,
+              "title": "Insta Bot",
+              "description": "",
+              "source": "@site/docs/projects/instabot.md",
+              "sourceDirName": "projects",
+              "slug": "/instabot",
+              "permalink": "/docs/instabot",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/instabot.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Insta Bot",
+              "frontMatter": {
+                "id": "instabot",
+                "title": "Insta Bot",
+                "sidebar_label": "Insta Bot",
+                "slug": "/instabot"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "youtube-API",
+                "permalink": "/docs/youtubeapi"
+              },
+              "next": {
+                "title": "Hackathons",
+                "permalink": "/docs/hackathons"
+              }
+            },
+            {
+              "unversionedId": "projects/intro",
+              "id": "projects/intro",
+              "isDocsHomePage": false,
+              "title": "Intro",
+              "description": "I never try copying my projects instead, I come up with new ideas on what can be done. Most of my projects Ideas are based on solving a real-world problem or improving an already existing technology of dev tool. I do feel my projects reflects how I think and how effeciently I can solve a problem.",
+              "source": "@site/docs/projects/intro.md",
+              "sourceDirName": "projects",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/intro.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Intro",
+              "frontMatter": {
+                "id": "intro",
+                "title": "Intro",
+                "sidebar_label": "Intro",
+                "slug": "/intro"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "About",
+                "permalink": "/docs/introduction"
+              },
+              "next": {
+                "title": "Get Bus",
+                "permalink": "/docs/getbus"
+              }
+            },
+            {
+              "unversionedId": "projects/portfolio",
+              "id": "projects/portfolio",
+              "isDocsHomePage": false,
+              "title": "Portfolio",
+              "description": "Hosted click to visit",
+              "source": "@site/docs/projects/portfolio.md",
+              "sourceDirName": "projects",
+              "slug": "/portfolio",
+              "permalink": "/docs/portfolio",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/portfolio.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Portfolio",
+              "frontMatter": {
+                "id": "portfolio",
+                "title": "Portfolio",
+                "sidebar_label": "Portfolio",
+                "slug": "/portfolio"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "✈ Travel-Buddy",
+                "permalink": "/docs/travelbuddy"
+              },
+              "next": {
+                "title": "Git Cli",
+                "permalink": "/docs/gitcli"
+              }
+            },
+            {
+              "unversionedId": "projects/sayhello",
+              "id": "projects/sayhello",
+              "isDocsHomePage": false,
+              "title": "SayHello",
+              "description": "issue",
+              "source": "@site/docs/projects/SayHello.md",
+              "sourceDirName": "projects",
+              "slug": "/sayhello",
+              "permalink": "/docs/sayhello",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/SayHello.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Say Hello",
+              "frontMatter": {
+                "id": "sayhello",
+                "title": "Say Hello",
+                "sidebar_label": "Say Hello",
+                "slug": "/sayhello"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Doc Stream",
+                "permalink": "/docs/docstream"
+              },
+              "next": {
+                "title": "BondMantainer",
+                "permalink": "/docs/bondmantainer"
+              }
+            },
+            {
+              "unversionedId": "projects/travelbuddy",
+              "id": "projects/travelbuddy",
+              "isDocsHomePage": false,
+              "title": "✈ Travel-Buddy",
+              "description": "| Hosted | Source Code |",
+              "source": "@site/docs/projects/travelbuddy.md",
+              "sourceDirName": "projects",
+              "slug": "/travelbuddy",
+              "permalink": "/docs/travelbuddy",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/travelbuddy.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Travel Buddy",
+              "frontMatter": {
+                "id": "travelbuddy",
+                "title": "travelbuddy",
+                "sidebar_label": "Travel Buddy",
+                "slug": "/travelbuddy"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "BondMantainer",
+                "permalink": "/docs/bondmantainer"
+              },
+              "next": {
+                "title": "Portfolio",
+                "permalink": "/docs/portfolio"
+              }
+            },
+            {
+              "unversionedId": "projects/youtubeapi",
+              "id": "projects/youtubeapi",
+              "isDocsHomePage": false,
+              "title": "youtube-API",
+              "description": "To make an API to fetch latest videos sorted in reverse chronological order of their publishing date-time from YouTube for a given tag/search query in a paginated response.",
+              "source": "@site/docs/projects/youtube_api.md",
+              "sourceDirName": "projects",
+              "slug": "/youtubeapi",
+              "permalink": "/docs/youtubeapi",
+              "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/youtube_api.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Youtube API",
+              "frontMatter": {
+                "id": "youtubeapi",
+                "title": "Youtube API",
+                "sidebar_label": "Youtube API",
+                "slug": "/youtubeapi"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Git Cli",
+                "permalink": "/docs/gitcli"
+              },
+              "next": {
+                "title": "Insta Bot",
+                "permalink": "/docs/instabot"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": null
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/legal/cookie-notice",
+        "source": "@site/src/pages/legal/cookie-notice.md"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/legal/privacy-notice",
+        "source": "@site/src/pages/legal/privacy-notice.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-theme-search-algolia": {
+    "default": null
+  },
+  "docusaurus-plugin-sass": {
+    "default": null
+  },
+  "docusaurus-theme-live-codeblock": {
+    "default": null
+  }
+}

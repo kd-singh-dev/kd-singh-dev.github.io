@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react/examples/frequent-updates",
+  "id": "examples/react/examples/frequent-updates",
+  "isDocsHomePage": false,
+  "title": "Frequent Updates",
+  "description": "",
+  "source": "@site/docs/examples/react/examples/FrequentUpdates.mdx",
+  "sourceDirName": "examples/react/examples",
+  "slug": "/examples/react/frequent-updates",
+  "permalink": "/docs/examples/react/frequent-updates",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/FrequentUpdates.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Frequent Updates",
+  "frontMatter": {
+    "id": "frequent-updates",
+    "title": "Frequent Updates",
+    "sidebar_label": "Frequent Updates",
+    "slug": "/examples/react/frequent-updates"
+  }
+}

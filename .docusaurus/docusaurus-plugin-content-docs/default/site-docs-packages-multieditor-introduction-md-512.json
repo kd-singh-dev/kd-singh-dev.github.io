@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/multieditor/introduction",
+  "id": "packages/multieditor/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "WIP Package!",
+  "source": "@site/docs/packages/multieditor/Introduction.md",
+  "sourceDirName": "packages/multieditor",
+  "slug": "/multieditor",
+  "permalink": "/docs/multieditor",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/multieditor/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "sidebar_label": "Introduction",
+    "slug": "/multieditor"
+  }
+}

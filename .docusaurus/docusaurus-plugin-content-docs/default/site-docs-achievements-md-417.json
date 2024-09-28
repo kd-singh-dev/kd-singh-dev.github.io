@@ -1,0 +1,27 @@
+{
+  "unversionedId": "achievements",
+  "id": "achievements",
+  "isDocsHomePage": false,
+  "title": "Achievements",
+  "description": "Best Beginners Hack in HackOffv3.O",
+  "source": "@site/docs/achievements.md",
+  "sourceDirName": ".",
+  "slug": "/achievements",
+  "permalink": "/docs/achievements",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/achievements.md",
+  "version": "current",
+  "lastUpdatedAt": 1625335369,
+  "formattedLastUpdatedAt": "7/3/2021",
+  "sidebar_label": "Achievements",
+  "frontMatter": {
+    "id": "achievements",
+    "title": "Achievements",
+    "sidebar_label": "Achievements",
+    "slug": "/achievements"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Freelancing",
+    "permalink": "/docs/freelancing"
+  }
+}

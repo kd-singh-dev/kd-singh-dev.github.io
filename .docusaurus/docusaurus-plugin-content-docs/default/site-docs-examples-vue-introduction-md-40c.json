@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/vue/introduction",
+  "id": "examples/vue/introduction",
+  "isDocsHomePage": false,
+  "title": "Vue Examples",
+  "description": "🤠 Get Started",
+  "source": "@site/docs/examples/vue/Introduction.md",
+  "sourceDirName": "examples/vue",
+  "slug": "/examples/vue",
+  "permalink": "/docs/examples/vue",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/vue/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Vue",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Vue Examples",
+    "sidebar_label": "Vue",
+    "slug": "/examples/vue"
+  }
+}

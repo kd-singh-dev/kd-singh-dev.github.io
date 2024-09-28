@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/youtubeapi",
+  "id": "projects/youtubeapi",
+  "isDocsHomePage": false,
+  "title": "youtube-API",
+  "description": "To make an API to fetch latest videos sorted in reverse chronological order of their publishing date-time from YouTube for a given tag/search query in a paginated response.",
+  "source": "@site/docs/projects/youtube_api.md",
+  "sourceDirName": "projects",
+  "slug": "/youtubeapi",
+  "permalink": "/docs/youtubeapi",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/youtube_api.md",
+  "version": "current",
+  "lastUpdatedAt": 1655640372,
+  "formattedLastUpdatedAt": "6/19/2022",
+  "sidebar_label": "Youtube API",
+  "frontMatter": {
+    "id": "youtubeapi",
+    "title": "Youtube API",
+    "sidebar_label": "Youtube API",
+    "slug": "/youtubeapi"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Git Cli",
+    "permalink": "/docs/gitcli"
+  },
+  "next": {
+    "title": "Insta Bot",
+    "permalink": "/docs/instabot"
+  }
+}

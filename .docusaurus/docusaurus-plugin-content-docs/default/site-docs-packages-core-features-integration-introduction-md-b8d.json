@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/integration/introduction",
+  "id": "packages/core/features/integration/introduction",
+  "isDocsHomePage": false,
+  "title": "Integration",
+  "description": "Most UI-Frameworks already have an Integration for AgileTs.",
+  "source": "@site/docs/packages/core/features/integration/Introduction.md",
+  "sourceDirName": "packages/core/features/integration",
+  "slug": "/core/integration",
+  "permalink": "/docs/core/integration",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/integration/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Integration",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Integration",
+    "sidebar_label": "Integration",
+    "slug": "/core/integration"
+  }
+}

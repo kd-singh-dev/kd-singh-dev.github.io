@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react/examples/simple-useproxy",
+  "id": "examples/react/examples/simple-useproxy",
+  "isDocsHomePage": false,
+  "title": "Simple useProxy",
+  "description": "",
+  "source": "@site/docs/examples/react/examples/SimpleUseProxy.mdx",
+  "sourceDirName": "examples/react/examples",
+  "slug": "/examples/react/simple-useproxy",
+  "permalink": "/docs/examples/react/simple-useproxy",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/SimpleUseProxy.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Simple useProxy",
+  "frontMatter": {
+    "id": "simple-useproxy",
+    "title": "Simple useProxy",
+    "sidebar_label": "Simple useProxy",
+    "slug": "/examples/react/simple-useproxy"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react/introduction",
+  "id": "examples/react/introduction",
+  "isDocsHomePage": false,
+  "title": "React Examples",
+  "description": "🤠 Get Started",
+  "source": "@site/docs/examples/react/Introduction.md",
+  "sourceDirName": "examples/react",
+  "slug": "/examples/react",
+  "permalink": "/docs/examples/react",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "React",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "React Examples",
+    "sidebar_label": "React",
+    "slug": "/examples/react"
+  }
+}

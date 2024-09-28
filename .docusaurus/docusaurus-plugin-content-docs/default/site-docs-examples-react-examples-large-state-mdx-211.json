@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react/examples/large-state",
+  "id": "examples/react/examples/large-state",
+  "isDocsHomePage": false,
+  "title": "Large State",
+  "description": "",
+  "source": "@site/docs/examples/react/examples/LargeState.mdx",
+  "sourceDirName": "examples/react/examples",
+  "slug": "/examples/react/large-state",
+  "permalink": "/docs/examples/react/large-state",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/LargeState.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Large State",
+  "frontMatter": {
+    "id": "large-state",
+    "title": "Large State",
+    "sidebar_label": "Large State",
+    "slug": "/examples/react/large-state"
+  }
+}

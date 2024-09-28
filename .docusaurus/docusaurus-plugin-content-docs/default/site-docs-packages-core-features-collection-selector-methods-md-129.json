@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/collection/selector/methods",
+  "id": "packages/core/features/collection/selector/methods",
+  "isDocsHomePage": false,
+  "title": "Methods",
+  "description": "Here are valuable methods of the Selector Class listed,",
+  "source": "@site/docs/packages/core/features/collection/selector/Methods.md",
+  "sourceDirName": "packages/core/features/collection/selector",
+  "slug": "/core/collection/selector/methods",
+  "permalink": "/docs/core/collection/selector/methods",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/selector/Methods.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Methods",
+  "frontMatter": {
+    "id": "methods",
+    "title": "Methods",
+    "sidebar_label": "Methods",
+    "slug": "/core/collection/selector/methods"
+  }
+}

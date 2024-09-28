@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react/examples/first-collection",
+  "id": "examples/react/examples/first-collection",
+  "isDocsHomePage": false,
+  "title": "First Collection",
+  "description": "",
+  "source": "@site/docs/examples/react/examples/FirstCollection.mdx",
+  "sourceDirName": "examples/react/examples",
+  "slug": "/examples/react/first-collection",
+  "permalink": "/docs/examples/react/first-collection",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/FirstCollection.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "First Collection",
+  "frontMatter": {
+    "id": "first-collection",
+    "title": "First Collection",
+    "sidebar_label": "First Collection",
+    "slug": "/examples/react/first-collection"
+  }
+}

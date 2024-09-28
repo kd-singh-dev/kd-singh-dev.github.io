@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react/examples/first-state-class",
+  "id": "examples/react/examples/first-state-class",
+  "isDocsHomePage": false,
+  "title": "First State",
+  "description": "",
+  "source": "@site/docs/examples/react/examples/FirstState_Class.mdx",
+  "sourceDirName": "examples/react/examples",
+  "slug": "/examples/react/class/first-state",
+  "permalink": "/docs/examples/react/class/first-state",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/FirstState_Class.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "First State",
+  "frontMatter": {
+    "id": "first-state-class",
+    "title": "First State",
+    "sidebar_label": "First State",
+    "slug": "/examples/react/class/first-state"
+  }
+}

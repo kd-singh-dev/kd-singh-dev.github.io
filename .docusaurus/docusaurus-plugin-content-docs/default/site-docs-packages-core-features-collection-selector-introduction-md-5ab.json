@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/collection/selector/introduction",
+  "id": "packages/core/features/collection/selector/introduction",
+  "isDocsHomePage": false,
+  "title": "Selector",
+  "description": "A Selector represents one specific Item from a Collection in the long term.",
+  "source": "@site/docs/packages/core/features/collection/selector/Introduction.md",
+  "sourceDirName": "packages/core/features/collection/selector",
+  "slug": "/core/collection/selector",
+  "permalink": "/docs/core/collection/selector",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/selector/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Selector",
+    "sidebar_label": "Introduction",
+    "slug": "/core/collection/selector"
+  }
+}

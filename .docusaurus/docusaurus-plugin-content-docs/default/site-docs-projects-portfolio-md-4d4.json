@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/portfolio",
+  "id": "projects/portfolio",
+  "isDocsHomePage": false,
+  "title": "Portfolio",
+  "description": "Hosted click to visit",
+  "source": "@site/docs/projects/portfolio.md",
+  "sourceDirName": "projects",
+  "slug": "/portfolio",
+  "permalink": "/docs/portfolio",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/portfolio.md",
+  "version": "current",
+  "lastUpdatedAt": 1727544979,
+  "formattedLastUpdatedAt": "9/28/2024",
+  "sidebar_label": "Portfolio",
+  "frontMatter": {
+    "id": "portfolio",
+    "title": "Portfolio",
+    "sidebar_label": "Portfolio",
+    "slug": "/portfolio"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "✈ Travel-Buddy",
+    "permalink": "/docs/travelbuddy"
+  },
+  "next": {
+    "title": "Git Cli",
+    "permalink": "/docs/gitcli"
+  }
+}

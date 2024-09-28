@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/react/introduction",
+  "id": "packages/react/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Integration for React or React-Native",
+  "source": "@site/docs/packages/react/Introduction.md",
+  "sourceDirName": "packages/react",
+  "slug": "/react",
+  "permalink": "/docs/react",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/react/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "sidebar_label": "Introduction",
+    "slug": "/react"
+  }
+}

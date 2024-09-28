@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react/examples/first-computed",
+  "id": "examples/react/examples/first-computed",
+  "isDocsHomePage": false,
+  "title": "First Computed",
+  "description": "",
+  "source": "@site/docs/examples/react/examples/FirstComputed.mdx",
+  "sourceDirName": "examples/react/examples",
+  "slug": "/examples/react/first-computed",
+  "permalink": "/docs/examples/react/first-computed",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/FirstComputed.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "First Computed",
+  "frontMatter": {
+    "id": "first-computed",
+    "title": "First Computed",
+    "sidebar_label": "First Computed",
+    "slug": "/examples/react/first-computed"
+  }
+}

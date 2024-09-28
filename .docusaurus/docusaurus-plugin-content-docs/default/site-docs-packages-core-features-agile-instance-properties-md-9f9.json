@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/agile-instance/properties",
+  "id": "packages/core/features/agile-instance/properties",
+  "isDocsHomePage": false,
+  "title": "Properties",
+  "description": "Here are valuable properties of the Agile Class listed.",
+  "source": "@site/docs/packages/core/features/agile-instance/Properties.md",
+  "sourceDirName": "packages/core/features/agile-instance",
+  "slug": "/core/agile-instance/properties",
+  "permalink": "/docs/core/agile-instance/properties",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/agile-instance/Properties.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Properties",
+  "frontMatter": {
+    "id": "properties",
+    "title": "Properties",
+    "sidebar_label": "Properties",
+    "slug": "/core/agile-instance/properties"
+  }
+}

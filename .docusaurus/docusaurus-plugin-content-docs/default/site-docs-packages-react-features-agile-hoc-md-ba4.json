@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/react/features/agileHOC",
+  "id": "packages/react/features/agileHOC",
+  "isDocsHomePage": false,
+  "title": "AgileHOC",
+  "description": "The AgileHOC is mainly thought for Class Components,",
+  "source": "@site/docs/packages/react/features/AgileHoc.md",
+  "sourceDirName": "packages/react/features",
+  "slug": "/react/AgileHOC",
+  "permalink": "/docs/react/AgileHOC",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/react/features/AgileHoc.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "AgileHOC",
+  "frontMatter": {
+    "id": "agileHOC",
+    "title": "AgileHOC",
+    "sidebar_label": "AgileHOC",
+    "slug": "/react/AgileHOC"
+  }
+}

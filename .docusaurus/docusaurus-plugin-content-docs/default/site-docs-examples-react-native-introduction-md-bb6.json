@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react-native/introduction",
+  "id": "examples/react-native/introduction",
+  "isDocsHomePage": false,
+  "title": "React-Native Examples",
+  "description": "🤠 Get Started",
+  "source": "@site/docs/examples/react-native/Introduction.md",
+  "sourceDirName": "examples/react-native",
+  "slug": "/examples/react-native",
+  "permalink": "/docs/examples/react-native",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react-native/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "React-Native",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "React-Native Examples",
+    "sidebar_label": "React-Native",
+    "slug": "/examples/react-native"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "hackathons",
+  "id": "hackathons",
+  "isDocsHomePage": false,
+  "title": "Hackathons",
+  "description": "HackOff v3.0 🌟",
+  "source": "@site/docs/hackathons.md",
+  "sourceDirName": ".",
+  "slug": "/hackathons",
+  "permalink": "/docs/hackathons",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/hackathons.md",
+  "version": "current",
+  "lastUpdatedAt": 1625335369,
+  "formattedLastUpdatedAt": "7/3/2021",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Insta Bot",
+    "permalink": "/docs/instabot"
+  },
+  "next": {
+    "title": "Freelancing",
+    "permalink": "/docs/freelancing"
+  }
+}

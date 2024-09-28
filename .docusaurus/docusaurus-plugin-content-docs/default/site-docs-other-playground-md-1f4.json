@@ -1,0 +1,22 @@
+{
+  "unversionedId": "other/md-playground",
+  "id": "other/md-playground",
+  "isDocsHomePage": false,
+  "title": "Playground",
+  "description": "bold",
+  "source": "@site/docs/other/Playground.md",
+  "sourceDirName": "other",
+  "slug": "/md/playground",
+  "permalink": "/docs/md/playground",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/other/Playground.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Playground",
+  "frontMatter": {
+    "id": "md-playground",
+    "title": "Playground",
+    "sidebar_label": "Playground",
+    "slug": "/md/playground"
+  }
+}

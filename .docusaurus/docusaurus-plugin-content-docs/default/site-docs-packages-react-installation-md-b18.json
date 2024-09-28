@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/react/installation",
+  "id": "packages/react/installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "The react package can be installed over npm.",
+  "source": "@site/docs/packages/react/Installation.md",
+  "sourceDirName": "packages/react",
+  "slug": "/react/installation",
+  "permalink": "/docs/react/installation",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/react/Installation.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Installation",
+  "frontMatter": {
+    "id": "installation",
+    "title": "Installation",
+    "sidebar_label": "Installation",
+    "slug": "/react/installation"
+  }
+}

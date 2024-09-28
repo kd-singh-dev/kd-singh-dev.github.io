@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/storage/introduction",
+  "id": "packages/core/features/storage/introduction",
+  "isDocsHomePage": false,
+  "title": "Storage",
+  "description": "The Storage Class serves as an interface to external Storages, like the",
+  "source": "@site/docs/packages/core/features/storage/Introduction.md",
+  "sourceDirName": "packages/core/features/storage",
+  "slug": "/core/storage",
+  "permalink": "/docs/core/storage",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/storage/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Storage",
+    "sidebar_label": "Introduction",
+    "slug": "/core/storage"
+  }
+}

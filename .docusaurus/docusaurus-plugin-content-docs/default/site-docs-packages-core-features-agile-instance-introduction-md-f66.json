@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/agile-instance/introduction",
+  "id": "packages/core/features/agile-instance/introduction",
+  "isDocsHomePage": false,
+  "title": "Agile Instance",
+  "description": "The Agile Class is the main Instance of AgileTs and should be unique to our application.",
+  "source": "@site/docs/packages/core/features/agile-instance/Introduction.md",
+  "sourceDirName": "packages/core/features/agile-instance",
+  "slug": "/core/agile-instance",
+  "permalink": "/docs/core/agile-instance",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/agile-instance/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Agile Instance",
+    "sidebar_label": "Introduction",
+    "slug": "/core/agile-instance"
+  }
+}

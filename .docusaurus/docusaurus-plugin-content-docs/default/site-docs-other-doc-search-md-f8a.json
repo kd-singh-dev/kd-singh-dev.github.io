@@ -1,0 +1,22 @@
+{
+  "unversionedId": "other/docsearch",
+  "id": "other/docsearch",
+  "isDocsHomePage": false,
+  "title": "DocSearch",
+  "description": "Hello docsearch Team,",
+  "source": "@site/docs/other/DocSearch.md",
+  "sourceDirName": "other",
+  "slug": "/docsearch",
+  "permalink": "/docs/docsearch",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/other/DocSearch.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "DocSearch",
+  "frontMatter": {
+    "id": "docsearch",
+    "title": "DocSearch",
+    "sidebar_label": "DocSearch",
+    "slug": "/docsearch"
+  }
+}

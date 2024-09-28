@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/collection/properties",
+  "id": "packages/core/features/collection/properties",
+  "isDocsHomePage": false,
+  "title": "Properties",
+  "description": "Here are valuable properties of the Collection Class listed.",
+  "source": "@site/docs/packages/core/features/collection/Properties.md",
+  "sourceDirName": "packages/core/features/collection",
+  "slug": "/core/collection/properties",
+  "permalink": "/docs/core/collection/properties",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/Properties.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Properties",
+  "frontMatter": {
+    "id": "properties",
+    "title": "Properties",
+    "sidebar_label": "Properties",
+    "slug": "/core/collection/properties"
+  }
+}

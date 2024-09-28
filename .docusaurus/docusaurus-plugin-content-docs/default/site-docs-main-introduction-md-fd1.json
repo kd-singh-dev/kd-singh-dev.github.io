@@ -1,0 +1,27 @@
+{
+  "unversionedId": "main/introduction",
+  "id": "main/introduction",
+  "isDocsHomePage": false,
+  "title": "About",
+  "description": "Hello there!, I am karandeep Singh, Friends call me KD",
+  "source": "@site/docs/main/Introduction.md",
+  "sourceDirName": "main",
+  "slug": "/introduction",
+  "permalink": "/docs/introduction",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/main/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1625335369,
+  "formattedLastUpdatedAt": "7/3/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "About",
+    "sidebar_label": "Introduction",
+    "slug": "/introduction"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Intro",
+    "permalink": "/docs/intro"
+  }
+}

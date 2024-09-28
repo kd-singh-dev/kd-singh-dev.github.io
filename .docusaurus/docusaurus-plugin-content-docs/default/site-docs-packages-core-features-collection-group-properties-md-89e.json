@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/collection/group/properties",
+  "id": "packages/core/features/collection/group/properties",
+  "isDocsHomePage": false,
+  "title": "Properties",
+  "description": "Here are valuable properties of the Group Class listed,",
+  "source": "@site/docs/packages/core/features/collection/group/Properties.md",
+  "sourceDirName": "packages/core/features/collection/group",
+  "slug": "/core/collection/group/properties",
+  "permalink": "/docs/core/collection/group/properties",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/group/Properties.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Properties",
+  "frontMatter": {
+    "id": "properties",
+    "title": "Properties",
+    "sidebar_label": "Properties",
+    "slug": "/core/collection/group/properties"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/intro",
+  "id": "projects/intro",
+  "isDocsHomePage": false,
+  "title": "Intro",
+  "description": "I never try copying my projects instead, I come up with new ideas on what can be done. Most of my projects Ideas are based on solving a real-world problem or improving an already existing technology of dev tool. I do feel my projects reflects how I think and how effeciently I can solve a problem.",
+  "source": "@site/docs/projects/intro.md",
+  "sourceDirName": "projects",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/intro.md",
+  "version": "current",
+  "lastUpdatedAt": 1625061901,
+  "formattedLastUpdatedAt": "6/30/2021",
+  "sidebar_label": "Intro",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Intro",
+    "sidebar_label": "Intro",
+    "slug": "/intro"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "About",
+    "permalink": "/docs/introduction"
+  },
+  "next": {
+    "title": "Get Bus",
+    "permalink": "/docs/getbus"
+  }
+}

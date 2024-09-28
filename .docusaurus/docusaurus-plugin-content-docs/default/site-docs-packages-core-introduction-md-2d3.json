@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/introduction",
+  "id": "packages/core/introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Global State and Logic Framework",
+  "source": "@site/docs/packages/core/Introduction.md",
+  "sourceDirName": "packages/core",
+  "slug": "/core",
+  "permalink": "/docs/core",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "sidebar_label": "Introduction",
+    "slug": "/core"
+  }
+}

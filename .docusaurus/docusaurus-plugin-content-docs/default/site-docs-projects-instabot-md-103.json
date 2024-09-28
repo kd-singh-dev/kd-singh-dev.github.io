@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/instabot",
+  "id": "projects/instabot",
+  "isDocsHomePage": false,
+  "title": "Insta Bot",
+  "description": "",
+  "source": "@site/docs/projects/instabot.md",
+  "sourceDirName": "projects",
+  "slug": "/instabot",
+  "permalink": "/docs/instabot",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/instabot.md",
+  "version": "current",
+  "lastUpdatedAt": 1625329118,
+  "formattedLastUpdatedAt": "7/3/2021",
+  "sidebar_label": "Insta Bot",
+  "frontMatter": {
+    "id": "instabot",
+    "title": "Insta Bot",
+    "sidebar_label": "Insta Bot",
+    "slug": "/instabot"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "youtube-API",
+    "permalink": "/docs/youtubeapi"
+  },
+  "next": {
+    "title": "Hackathons",
+    "permalink": "/docs/hackathons"
+  }
+}

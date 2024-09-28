@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/state/introduction",
+  "id": "packages/core/features/state/introduction",
+  "isDocsHomePage": false,
+  "title": "State",
+  "description": "A State provides a piece of Information that we need to remember globally at a later point in time.",
+  "source": "@site/docs/packages/core/features/state/Introduction.md",
+  "sourceDirName": "packages/core/features/state",
+  "slug": "/core/state",
+  "permalink": "/docs/core/state",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/state/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "State",
+    "sidebar_label": "Introduction",
+    "slug": "/core/state"
+  }
+}

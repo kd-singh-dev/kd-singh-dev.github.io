@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/travelbuddy",
+  "id": "projects/travelbuddy",
+  "isDocsHomePage": false,
+  "title": "✈ Travel-Buddy",
+  "description": "| Hosted | Source Code |",
+  "source": "@site/docs/projects/travelbuddy.md",
+  "sourceDirName": "projects",
+  "slug": "/travelbuddy",
+  "permalink": "/docs/travelbuddy",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/travelbuddy.md",
+  "version": "current",
+  "lastUpdatedAt": 1625335369,
+  "formattedLastUpdatedAt": "7/3/2021",
+  "sidebar_label": "Travel Buddy",
+  "frontMatter": {
+    "id": "travelbuddy",
+    "title": "travelbuddy",
+    "sidebar_label": "Travel Buddy",
+    "slug": "/travelbuddy"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "BondMantainer",
+    "permalink": "/docs/bondmantainer"
+  },
+  "next": {
+    "title": "Portfolio",
+    "permalink": "/docs/portfolio"
+  }
+}

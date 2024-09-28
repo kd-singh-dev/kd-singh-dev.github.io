@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/getbus",
+  "id": "projects/getbus",
+  "isDocsHomePage": false,
+  "title": "Get Bus",
+  "description": "| Youtube Demo | Source Code |",
+  "source": "@site/docs/projects/GetBus.md",
+  "sourceDirName": "projects",
+  "slug": "/getbus",
+  "permalink": "/docs/getbus",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/GetBus.md",
+  "version": "current",
+  "lastUpdatedAt": 1685804442,
+  "formattedLastUpdatedAt": "6/3/2023",
+  "sidebar_label": "Get Bus",
+  "frontMatter": {
+    "id": "getbus",
+    "title": "Get Bus",
+    "sidebar_label": "Get Bus",
+    "slug": "/getbus"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Doc Stream",
+    "permalink": "/docs/docstream"
+  }
+}

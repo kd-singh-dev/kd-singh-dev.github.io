@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/storage/persisting-data",
+  "id": "packages/core/features/storage/persisting-data",
+  "isDocsHomePage": false,
+  "title": "Persisting Data",
+  "description": "It's common for applications to store data on the client browser.",
+  "source": "@site/docs/packages/core/features/storage/PersistingData.md",
+  "sourceDirName": "packages/core/features/storage",
+  "slug": "/core/persisting-data",
+  "permalink": "/docs/core/persisting-data",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/storage/PersistingData.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Persisting Data",
+  "frontMatter": {
+    "id": "persisting-data",
+    "title": "Persisting Data",
+    "sidebar_label": "Persisting Data",
+    "slug": "/core/persisting-data"
+  }
+}

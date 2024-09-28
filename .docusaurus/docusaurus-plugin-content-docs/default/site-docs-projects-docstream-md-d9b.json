@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/docstream",
+  "id": "projects/docstream",
+  "isDocsHomePage": false,
+  "title": "Doc Stream",
+  "description": "| Hosted | Source Code |",
+  "source": "@site/docs/projects/docstream.md",
+  "sourceDirName": "projects",
+  "slug": "/docstream",
+  "permalink": "/docs/docstream",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/docstream.md",
+  "version": "current",
+  "lastUpdatedAt": 1655640372,
+  "formattedLastUpdatedAt": "6/19/2022",
+  "sidebar_label": "DocStream",
+  "frontMatter": {
+    "id": "docstream",
+    "title": "Doc Stream",
+    "sidebar_label": "DocStream",
+    "slug": "/docstream"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Get Bus",
+    "permalink": "/docs/getbus"
+  },
+  "next": {
+    "title": "SayHello",
+    "permalink": "/docs/sayhello"
+  }
+}

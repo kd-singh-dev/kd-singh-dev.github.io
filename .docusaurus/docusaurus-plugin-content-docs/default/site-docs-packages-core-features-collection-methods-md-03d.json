@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/collection/methods",
+  "id": "packages/core/features/collection/methods",
+  "isDocsHomePage": false,
+  "title": "Methods",
+  "description": "Here are valuable methods of the Collection Class listed.",
+  "source": "@site/docs/packages/core/features/collection/Methods.md",
+  "sourceDirName": "packages/core/features/collection",
+  "slug": "/core/collection/methods",
+  "permalink": "/docs/core/collection/methods",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/Methods.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Methods",
+  "frontMatter": {
+    "id": "methods",
+    "title": "Methods",
+    "sidebar_label": "Methods",
+    "slug": "/core/collection/methods"
+  }
+}

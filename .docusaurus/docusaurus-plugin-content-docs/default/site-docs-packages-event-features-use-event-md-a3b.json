@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/event/features/hooks",
+  "id": "packages/event/features/hooks",
+  "isDocsHomePage": false,
+  "title": "Hooks",
+  "description": "useEvent",
+  "source": "@site/docs/packages/event/features/useEvent.md",
+  "sourceDirName": "packages/event/features",
+  "slug": "/event/hooks",
+  "permalink": "/docs/event/hooks",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/event/features/useEvent.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Hooks",
+  "frontMatter": {
+    "id": "hooks",
+    "title": "Hooks",
+    "sidebar_label": "Hooks",
+    "slug": "/event/hooks"
+  }
+}

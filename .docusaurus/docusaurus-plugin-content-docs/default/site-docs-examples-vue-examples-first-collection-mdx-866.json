@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/vue/examples/first-collection",
+  "id": "examples/vue/examples/first-collection",
+  "isDocsHomePage": false,
+  "title": "First Collection",
+  "description": "",
+  "source": "@site/docs/examples/vue/examples/FirstCollection.mdx",
+  "sourceDirName": "examples/vue/examples",
+  "slug": "/examples/vue/first-collection",
+  "permalink": "/docs/examples/vue/first-collection",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/vue/examples/FirstCollection.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "First Collection",
+  "frontMatter": {
+    "id": "first-collection",
+    "title": "First Collection",
+    "sidebar_label": "First Collection",
+    "slug": "/examples/vue/first-collection"
+  }
+}

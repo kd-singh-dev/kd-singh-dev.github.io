@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/collection/group/methods",
+  "id": "packages/core/features/collection/group/methods",
+  "isDocsHomePage": false,
+  "title": "Methods",
+  "description": "Here are valuable methods of the Group Class listed,",
+  "source": "@site/docs/packages/core/features/collection/group/Methods.md",
+  "sourceDirName": "packages/core/features/collection/group",
+  "slug": "/core/collection/group/methods",
+  "permalink": "/docs/core/collection/group/methods",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/group/Methods.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Methods",
+  "frontMatter": {
+    "id": "methods",
+    "title": "Methods",
+    "sidebar_label": "Methods",
+    "slug": "/core/collection/group/methods"
+  }
+}

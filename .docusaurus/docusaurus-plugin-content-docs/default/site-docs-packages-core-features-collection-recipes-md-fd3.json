@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/collection/recipes",
+  "id": "packages/core/features/collection/recipes",
+  "isDocsHomePage": false,
+  "title": "Recipes",
+  "description": "WIP Section",
+  "source": "@site/docs/packages/core/features/collection/Recipes.md",
+  "sourceDirName": "packages/core/features/collection",
+  "slug": "/core/collection/recipes",
+  "permalink": "/docs/core/collection/recipes",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/collection/Recipes.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Recipes",
+  "frontMatter": {
+    "id": "recipes",
+    "title": "Recipes",
+    "sidebar_label": "Recipes",
+    "slug": "/core/collection/recipes"
+  }
+}

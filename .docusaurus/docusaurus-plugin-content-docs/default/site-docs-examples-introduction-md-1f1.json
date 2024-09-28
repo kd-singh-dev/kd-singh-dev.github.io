@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/introduction",
+  "id": "examples/introduction",
+  "isDocsHomePage": false,
+  "title": "Examples",
+  "description": "Most of the time you can learn something better by seeing it in action.",
+  "source": "@site/docs/examples/Introduction.md",
+  "sourceDirName": "examples",
+  "slug": "/examples",
+  "permalink": "/docs/examples",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/Introduction.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Introduction",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Examples",
+    "sidebar_label": "Introduction",
+    "slug": "/examples"
+  }
+}

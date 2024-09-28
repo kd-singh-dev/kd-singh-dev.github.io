@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/react/features/hooks",
+  "id": "packages/react/features/hooks",
+  "isDocsHomePage": false,
+  "title": "React Hooks",
+  "description": "Keep in mind that React Hooks are only supported in Functional React Components!",
+  "source": "@site/docs/packages/react/features/Hooks.md",
+  "sourceDirName": "packages/react/features",
+  "slug": "/react/hooks",
+  "permalink": "/docs/react/hooks",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/react/features/Hooks.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "React Hooks",
+  "frontMatter": {
+    "id": "hooks",
+    "title": "React Hooks",
+    "sidebar_label": "React Hooks",
+    "slug": "/react/hooks"
+  }
+}

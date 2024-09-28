@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/multieditor/installation",
+  "id": "packages/multieditor/installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "The multieditor package can be installed over npm.",
+  "source": "@site/docs/packages/multieditor/Installation.md",
+  "sourceDirName": "packages/multieditor",
+  "slug": "/multieditor/installation",
+  "permalink": "/docs/multieditor/installation",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/multieditor/Installation.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Installation",
+  "frontMatter": {
+    "id": "installation",
+    "title": "Installation",
+    "sidebar_label": "Installation",
+    "slug": "/multieditor/installation"
+  }
+}

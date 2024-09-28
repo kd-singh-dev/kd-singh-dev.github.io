@@ -1,0 +1,22 @@
+{
+  "unversionedId": "packages/core/features/state/methods",
+  "id": "packages/core/features/state/methods",
+  "isDocsHomePage": false,
+  "title": "Methods",
+  "description": "Here are valuable methods of the State Class listed.",
+  "source": "@site/docs/packages/core/features/state/Methods.md",
+  "sourceDirName": "packages/core/features/state",
+  "slug": "/core/state/methods",
+  "permalink": "/docs/core/state/methods",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/packages/core/features/state/Methods.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Methods",
+  "frontMatter": {
+    "id": "methods",
+    "title": "Methods",
+    "sidebar_label": "Methods",
+    "slug": "/core/state/methods"
+  }
+}

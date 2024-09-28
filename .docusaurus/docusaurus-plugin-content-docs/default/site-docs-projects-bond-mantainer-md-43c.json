@@ -1,0 +1,31 @@
+{
+  "unversionedId": "projects/BondMantainer",
+  "id": "projects/BondMantainer",
+  "isDocsHomePage": false,
+  "title": "BondMantainer",
+  "description": "Hosted click to visit",
+  "source": "@site/docs/projects/BondMantainer.md",
+  "sourceDirName": "projects",
+  "slug": "/bondmantainer",
+  "permalink": "/docs/bondmantainer",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/projects/BondMantainer.md",
+  "version": "current",
+  "lastUpdatedAt": 1625335369,
+  "formattedLastUpdatedAt": "7/3/2021",
+  "sidebar_label": "BondMantainer",
+  "frontMatter": {
+    "id": "BondMantainer",
+    "title": "BondMantainer",
+    "sidebar_label": "BondMantainer",
+    "slug": "/bondmantainer"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "SayHello",
+    "permalink": "/docs/sayhello"
+  },
+  "next": {
+    "title": "✈ Travel-Buddy",
+    "permalink": "/docs/travelbuddy"
+  }
+}

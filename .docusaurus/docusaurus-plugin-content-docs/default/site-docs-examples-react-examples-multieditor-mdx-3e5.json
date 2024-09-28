@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/react/examples/multieditor",
+  "id": "examples/react/examples/multieditor",
+  "isDocsHomePage": false,
+  "title": "MultiEditor",
+  "description": "",
+  "source": "@site/docs/examples/react/examples/Multieditor.mdx",
+  "sourceDirName": "examples/react/examples",
+  "slug": "/examples/react/multieditor",
+  "permalink": "/docs/examples/react/multieditor",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/examples/react/examples/Multieditor.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "MultiEditor",
+  "frontMatter": {
+    "id": "multieditor",
+    "title": "MultiEditor",
+    "sidebar_label": "MultiEditor",
+    "slug": "/examples/react/multieditor"
+  }
+}

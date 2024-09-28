@@ -1,0 +1,22 @@
+{
+  "unversionedId": "interfaces",
+  "id": "interfaces",
+  "isDocsHomePage": false,
+  "title": "Interfaces",
+  "description": "",
+  "source": "@site/docs/aboutme.md",
+  "sourceDirName": ".",
+  "slug": "/aboutme",
+  "permalink": "/docs/aboutme",
+  "editUrl": "https://github.com/kd-singh-dev/documentation/tree/develop/docs/aboutme.md",
+  "version": "current",
+  "lastUpdatedAt": 1624902050,
+  "formattedLastUpdatedAt": "6/28/2021",
+  "sidebar_label": "Interfaces",
+  "frontMatter": {
+    "id": "interfaces",
+    "title": "Interfaces",
+    "sidebar_label": "Interfaces",
+    "slug": "/aboutme"
+  }
+}
