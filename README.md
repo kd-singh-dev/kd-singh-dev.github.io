@@ -1,6 +1,6 @@
 # Portfolio
 
-> **Hosted [click to visit](https://kdsinghcoder.github.io/)**
+> **Hosted [click to visit](https://kd-singh-dev.github.io/)**
 
 This site is build to show my work and discuss myself in a more user-friendly way. This site holds my interest, hobbies, my projects, and social links.
 

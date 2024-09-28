@@ -81,7 +81,7 @@ MySkillset(){
 ## Exploring Technology 🚀
 
 //Birthday: 25th Nov, 1999              Phone: +91-7008788033
-Website: www.kdsinghcoder.github.io     Degree: Undergraduate
+Website: www.kd-singh-dev.github.io     Degree: Undergraduate
 //City: Rourkela, India                 Email: kdsingh.contact@gmail.com
 Age: 21                                 Freelance: Available`,
     codeWithComment: `
@@ -90,7 +90,7 @@ Age: 21                                 Freelance: Available`,
     Exploring Technology 🚀
     
      Birthday: 25th Nov, 1999              Phone: +91-7008788033
-     Website: www.kdsinghcoder.github.io   Degree: Undergraduate
+     Website: www.kd-singh-dev.github.io   Degree: Undergraduate
      City: Rourkela, India                 Email: kdsingh.contact@gmail.com
      Age: 21                               Freelance: Available`,
     title: 'Info',

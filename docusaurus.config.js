@@ -3,8 +3,8 @@ const { AgileHOC, useAgile, useWatcher, useProxy } = require('@agile-ts/react');
 const { Event, useEvent } = require('@agile-ts/event');
 const { toast } = require('react-toastify');
 
-const githubOrgUrl = 'https://github.com/kdsinghcoder';
-const domain = 'https://kdsinghcoder.github.io';
+const githubOrgUrl = 'https://github.com/kd-singh-dev';
+const domain = 'https://kd-singh-dev.github.io';
 const npmOrgUrl = 'https://www.npmjs.com/package/@agile-ts';
 
 const customFields = {
@@ -54,13 +54,13 @@ const customFields = {
 const config = {
   title: 'Kd Singh',
   tagline: 'A Bug is not a four letter word… but often your reaction to it is! 😅',
-  url: "https://kdsinghcoder.github.io",
+  url: "https://kd-singh-dev.github.io",
   baseUrlIssueBanner: false,
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   favicon: 'img/kd.png',
-  organizationName: 'kdsinghcoder',
-  projectName: 'kdsinghcoder.github.io',
+  organizationName: 'kd-singh-dev',
+  projectName: 'kd-singh-dev.github.io',
   themes: ['@docusaurus/theme-live-codeblock'],
   scripts: [{ src: 'https://snack.expo.io/embed.js', async: true }], // https://github.com/expo/snack/blob/main/docs/embedding-snacks.md
   plugins: [
@@ -177,7 +177,7 @@ const config = {
         {
           label: 'Resume',
           position: 'right',
-          href:'https://kdsinghcoder.github.io/KarandeepSingh.pdf',
+          href:'https://kd-singh-dev.github.io/KarandeepSingh.pdf',
         }  
       ],
     },
@@ -194,7 +194,7 @@ const config = {
             },
               {
                 label: 'Resume',
-                href: 'https://kdsinghcoder.github.io/KarandeepSingh.pdf',
+                href: 'https://kd-singh-dev.github.io/KarandeepSingh.pdf',
               }
           ],
         },

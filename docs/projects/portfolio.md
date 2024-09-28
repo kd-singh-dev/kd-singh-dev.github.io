@@ -6,7 +6,7 @@ slug: /portfolio
 ---
 # Portfolio
 
-> **Hosted [click to visit](https://kdsinghcoder.github.io/)**
+> **Hosted [click to visit](https://kd-singh-dev.github.io/)**
 
 ## Introduction 👀
 
